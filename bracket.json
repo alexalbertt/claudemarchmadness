@@ -1,0 +1,840 @@
+{
+  "tournament_name": "NCAA Men's Basketball Tournament 2025",
+  "current_round": 1,
+  "last_completed_game_id": null,
+  "rounds": [
+    {
+      "round_name": "First Round",
+      "round_number": 1,
+      "games": [
+        {
+          "game_id": "R1G1",
+          "region": "South",
+          "team1": {
+            "name": "Auburn",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Alabama St./Saint Francis",
+            "seed": 16
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G2",
+          "region": "South",
+          "team1": {
+            "name": "Louisville",
+            "seed": 8
+          },
+          "team2": {
+            "name": "Creighton",
+            "seed": 9
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G3",
+          "region": "South",
+          "team1": {
+            "name": "Michigan",
+            "seed": 5
+          },
+          "team2": {
+            "name": "UC San Diego",
+            "seed": 12
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G4",
+          "region": "South",
+          "team1": {
+            "name": "Texas A&M",
+            "seed": 4
+          },
+          "team2": {
+            "name": "Yale",
+            "seed": 13
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G5",
+          "region": "South",
+          "team1": {
+            "name": "Ole Miss",
+            "seed": 6
+          },
+          "team2": {
+            "name": "San Diego St./North Carolina",
+            "seed": 11
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G6",
+          "region": "South",
+          "team1": {
+            "name": "Iowa State",
+            "seed": 3
+          },
+          "team2": {
+            "name": "Lipscomb",
+            "seed": 14
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G7",
+          "region": "South",
+          "team1": {
+            "name": "Marquette",
+            "seed": 7
+          },
+          "team2": {
+            "name": "New Mexico",
+            "seed": 10
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G8",
+          "region": "South",
+          "team1": {
+            "name": "Michigan State",
+            "seed": 2
+          },
+          "team2": {
+            "name": "Bryant",
+            "seed": 15
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G9",
+          "region": "West",
+          "team1": {
+            "name": "Florida",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Norfolk State",
+            "seed": 16
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G10",
+          "region": "West",
+          "team1": {
+            "name": "UConn",
+            "seed": 8
+          },
+          "team2": {
+            "name": "Oklahoma",
+            "seed": 9
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G11",
+          "region": "West",
+          "team1": {
+            "name": "Memphis",
+            "seed": 5
+          },
+          "team2": {
+            "name": "Colorado State",
+            "seed": 12
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G12",
+          "region": "West",
+          "team1": {
+            "name": "Maryland",
+            "seed": 4
+          },
+          "team2": {
+            "name": "Grand Canyon",
+            "seed": 13
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G13",
+          "region": "West",
+          "team1": {
+            "name": "Missouri",
+            "seed": 6
+          },
+          "team2": {
+            "name": "Drake",
+            "seed": 11
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G14",
+          "region": "West",
+          "team1": {
+            "name": "Texas Tech",
+            "seed": 3
+          },
+          "team2": {
+            "name": "UNCW",
+            "seed": 14
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G15",
+          "region": "West",
+          "team1": {
+            "name": "Kansas",
+            "seed": 7
+          },
+          "team2": {
+            "name": "Arkansas",
+            "seed": 10
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G16",
+          "region": "West",
+          "team1": {
+            "name": "St. John's",
+            "seed": 2
+          },
+          "team2": {
+            "name": "Omaha",
+            "seed": 15
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G17",
+          "region": "East",
+          "team1": {
+            "name": "Duke",
+            "seed": 1
+          },
+          "team2": {
+            "name": "American/Mount St. Mary's",
+            "seed": 16
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G18",
+          "region": "East",
+          "team1": {
+            "name": "Mississippi State",
+            "seed": 8
+          },
+          "team2": {
+            "name": "Baylor",
+            "seed": 9
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G19",
+          "region": "East",
+          "team1": {
+            "name": "Oregon",
+            "seed": 5
+          },
+          "team2": {
+            "name": "Liberty",
+            "seed": 12
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G20",
+          "region": "East",
+          "team1": {
+            "name": "Arizona",
+            "seed": 4
+          },
+          "team2": {
+            "name": "Akron",
+            "seed": 13
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G21",
+          "region": "East",
+          "team1": {
+            "name": "BYU",
+            "seed": 6
+          },
+          "team2": {
+            "name": "VCU",
+            "seed": 11
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G22",
+          "region": "East",
+          "team1": {
+            "name": "Wisconsin",
+            "seed": 3
+          },
+          "team2": {
+            "name": "Montana",
+            "seed": 14
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G23",
+          "region": "East",
+          "team1": {
+            "name": "Saint Mary's",
+            "seed": 7
+          },
+          "team2": {
+            "name": "Vanderbilt",
+            "seed": 10
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G24",
+          "region": "East",
+          "team1": {
+            "name": "Alabama",
+            "seed": 2
+          },
+          "team2": {
+            "name": "Robert Morris",
+            "seed": 15
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G25",
+          "region": "Midwest",
+          "team1": {
+            "name": "Houston",
+            "seed": 1
+          },
+          "team2": {
+            "name": "SIU Edwardsville",
+            "seed": 16
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G26",
+          "region": "Midwest",
+          "team1": {
+            "name": "Gonzaga",
+            "seed": 8
+          },
+          "team2": {
+            "name": "Georgia",
+            "seed": 9
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G27",
+          "region": "Midwest",
+          "team1": {
+            "name": "Clemson",
+            "seed": 5
+          },
+          "team2": {
+            "name": "McNeese",
+            "seed": 12
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G28",
+          "region": "Midwest",
+          "team1": {
+            "name": "Purdue",
+            "seed": 4
+          },
+          "team2": {
+            "name": "High Point",
+            "seed": 13
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G29",
+          "region": "Midwest",
+          "team1": {
+            "name": "Illinois",
+            "seed": 6
+          },
+          "team2": {
+            "name": "Texas/Xavier",
+            "seed": 11
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G30",
+          "region": "Midwest",
+          "team1": {
+            "name": "Kentucky",
+            "seed": 3
+          },
+          "team2": {
+            "name": "Troy",
+            "seed": 14
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G31",
+          "region": "Midwest",
+          "team1": {
+            "name": "UCLA",
+            "seed": 7
+          },
+          "team2": {
+            "name": "Utah State",
+            "seed": 10
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        },
+        {
+          "game_id": "R1G32",
+          "region": "Midwest",
+          "team1": {
+            "name": "Tennessee",
+            "seed": 2
+          },
+          "team2": {
+            "name": "Wofford",
+            "seed": 15
+          },
+          "predicted_winner": null,
+          "confidence": null,
+          "reasoning": null,
+          "sources": []
+        }
+      ]
+    },
+    {
+      "round_name": "Second Round",
+      "round_number": 2,
+      "games": []
+    },
+    {
+      "round_name": "Sweet 16",
+      "round_number": 3,
+      "games": []
+    },
+    {
+      "round_name": "Elite Eight",
+      "round_number": 4,
+      "games": []
+    },
+    {
+      "round_name": "Final Four",
+      "round_number": 5,
+      "games": []
+    },
+    {
+      "round_name": "National Championship",
+      "round_number": 6,
+      "games": []
+    }
+  ],
+  "play_in_games": [
+    {
+      "region": "South",
+      "matchup": "Alabama St./Saint Francis",
+      "teams": [
+        {
+          "name": "Alabama State",
+          "seed": 16
+        },
+        {
+          "name": "Saint Francis",
+          "seed": 16
+        }
+      ]
+    },
+    {
+      "region": "South",
+      "matchup": "San Diego St./North Carolina",
+      "teams": [
+        {
+          "name": "San Diego State",
+          "seed": 11
+        },
+        {
+          "name": "North Carolina",
+          "seed": 11
+        }
+      ]
+    },
+    {
+      "region": "East",
+      "matchup": "American/Mount St. Mary's",
+      "teams": [
+        {
+          "name": "American",
+          "seed": 16
+        },
+        {
+          "name": "Mount St. Mary's",
+          "seed": 16
+        }
+      ]
+    },
+    {
+      "region": "Midwest",
+      "matchup": "Texas/Xavier",
+      "teams": [
+        {
+          "name": "Texas",
+          "seed": 11
+        },
+        {
+          "name": "Xavier",
+          "seed": 11
+        }
+      ]
+    }
+  ],
+  "locations": {
+    "R1": {
+      "South": [
+        {
+          "games": [
+            "R1G1",
+            "R1G2"
+          ],
+          "location": "Lexington",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G3",
+            "R1G4"
+          ],
+          "location": "Denver",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G5",
+            "R1G6"
+          ],
+          "location": "Milwaukee",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G7",
+            "R1G8"
+          ],
+          "location": "Cleveland",
+          "dates": "March 21-23"
+        }
+      ],
+      "West": [
+        {
+          "games": [
+            "R1G9",
+            "R1G10"
+          ],
+          "location": "Raleigh",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G11",
+            "R1G12"
+          ],
+          "location": "Seattle",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G13",
+            "R1G14"
+          ],
+          "location": "Wichita",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G15",
+            "R1G16"
+          ],
+          "location": "Providence",
+          "dates": "March 20-22"
+        }
+      ],
+      "East": [
+        {
+          "games": [
+            "R1G17",
+            "R1G18"
+          ],
+          "location": "Raleigh",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G19",
+            "R1G20"
+          ],
+          "location": "Seattle",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G21",
+            "R1G22"
+          ],
+          "location": "Denver",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G23",
+            "R1G24"
+          ],
+          "location": "Cleveland",
+          "dates": "March 21-23"
+        }
+      ],
+      "Midwest": [
+        {
+          "games": [
+            "R1G25",
+            "R1G26"
+          ],
+          "location": "Wichita",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G27",
+            "R1G28"
+          ],
+          "location": "Providence",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G29",
+            "R1G30"
+          ],
+          "location": "Milwaukee",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G31",
+            "R1G32"
+          ],
+          "location": "Lexington",
+          "dates": "March 20-22"
+        }
+      ]
+    },
+    "R3": {
+      "South": {
+        "location": "Atlanta",
+        "dates": "March 28-30"
+      },
+      "West": {
+        "location": "San Francisco",
+        "dates": "March 27-29"
+      },
+      "East": {
+        "location": "Newark",
+        "dates": "March 27-29"
+      },
+      "Midwest": {
+        "location": "Indianapolis",
+        "dates": "March 28-30"
+      }
+    },
+    "R5": {
+      "location": "San Antonio",
+      "dates": "April 5-7"
+    }
+  },
+  "team_records": {
+    "Auburn": "(30-4)",
+    "Florida": "(30-4)",
+    "Duke": "(31-3)",
+    "Houston": "(30-4)",
+    "Michigan State": "(27-8)",
+    "St. John's": "(30-4)",
+    "Alabama": "(25-8)",
+    "Tennessee": "(27-7)",
+    "Louisville": "(27-7)",
+    "UConn": "(23-10)",
+    "Mississippi State": "(21-12)",
+    "Gonzaga": "(25-8)",
+    "Creighton": "(24-10)",
+    "Oklahoma": "(20-13)",
+    "Baylor": "(19-14)",
+    "Georgia": "(20-12)",
+    "Michigan": "(25-8)",
+    "Memphis": "(29-5)",
+    "Oregon": "(24-9)",
+    "Clemson": "(27-8)",
+    "Texas A&M": "(22-10)",
+    "Maryland": "(25-8)",
+    "Arizona": "(22-12)",
+    "Purdue": "(22-11)",
+    "Ole Miss": "(22-11)",
+    "Missouri": "(22-11)",
+    "BYU": "(24-9)",
+    "Illinois": "(21-12)",
+    "Iowa State": "(24-9)",
+    "Texas Tech": "(25-8)",
+    "Wisconsin": "(24-9)",
+    "Kentucky": "(22-11)",
+    "Marquette": "(23-10)",
+    "Kansas": "(21-12)",
+    "Saint Mary's": "(28-5)",
+    "UCLA": "(22-10)",
+    "New Mexico": "(26-7)",
+    "Arkansas": "(20-13)",
+    "Vanderbilt": "(20-12)",
+    "Utah State": "(26-7)",
+    "UC San Diego": "(30-4)",
+    "Colorado State": "(25-9)",
+    "Liberty": "(28-6)",
+    "McNeese": "(27-8)",
+    "Yale": "(23-7)",
+    "Grand Canyon": "(26-7)",
+    "Akron": "(28-6)",
+    "High Point": "(29-5)",
+    "San Diego State": "(21-9)",
+    "Drake": "(30-3)",
+    "VCU": "(26-8)",
+    "Texas": "(19-15)",
+    "North Carolina": "(22-13)",
+    "Xavier": "(21-11)",
+    "Lipscomb": "(25-9)",
+    "UNCW": "(27-7)",
+    "Montana": "(25-9)",
+    "Troy": "(23-10)",
+    "Bryant": "(23-11)",
+    "Norfolk State": "(24-10)",
+    "Robert Morris": "(25-8)",
+    "Omaha": "(22-12)",
+    "Wofford": "(19-15)",
+    "Alabama State": "(19-15)",
+    "Saint Francis": "(16-17)",
+    "American": "(22-12)",
+    "Mount St. Mary's": "(22-12)",
+    "SIU Edwardsville": "(22-11)"
+  }
+}
