@@ -1,0 +1,2067 @@
+{
+  "tournament_name": "NCAA Men's Basketball Tournament 2025",
+  "current_round": 3,
+  "last_completed_game_id": "R3G8",
+  "rounds": [
+    {
+      "round_name": "First Round",
+      "round_number": 1,
+      "games": [
+        {
+          "game_id": "R1G1",
+          "region": "South",
+          "team1": {
+            "name": "Auburn",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Alabama St./Saint Francis",
+            "seed": 16
+          },
+          "predicted_winner": "Auburn",
+          "confidence": 99,
+          "reasoning": "1. The talent gap is overwhelming - Auburn's statistical profile (83.8 PPG, top-10 nationally in scoring) and SEC Player of the Year Johni Broome (18.6 PPG, 10.6 RPG) far outclass Alabama State's metrics (196th in scoring).",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.ncaa.com/video/basketball-men/2025-03-18/final-251-alabama-state-saint-francis-first-four-thriller",
+            "https://www.azcentral.com/story/sports/college/2025/03/19/auburn-alabama-state-picks-predictions-odds-march-madness-ncaa-tournament/82540711007/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6207050/2025/03/17/south-region-ncaa-tournament-analysis/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://bamastatesports.com/story.aspx?filename=mens-basketball-knoxs-buzzer-beater-leads-alabama-state-past-saint-francis-pa-70-68&file_date=3/18/2025",
+            "https://sports.yahoo.com/article/knoxs-last-second-layup-lifts-011734412.html",
+            "https://sfuathletics.com/news/2025/3/19/mens-basketball-mens-basketball-suffers-heartbreaking-loss-in-ncaa-first-four-to-alabama-state.aspx",
+            "https://dknetwork.draftkings.com/2025/03/19/college-basketball-preview-and-betting-picks-auburn-vs-alabama-state-in-march-madness/",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-south-region-bracket-cinderella-picks-schedule-odds-and-more-133859945.html",
+            "https://www.ncaa.com/news/basketball-men/article/2025-02-05/records-every-seed-march-madness-1985-2024",
+            "https://www.ncaa.com/news/basketball-men/article/2025-01-24/history-1-seed-vs-16-seed-march-madness",
+            "https://bracketodds.cs.illinois.edu/seed_records.html"
+          ]
+        },
+        {
+          "game_id": "R1G2",
+          "region": "South",
+          "team1": {
+            "name": "Louisville",
+            "seed": 8
+          },
+          "team2": {
+            "name": "Creighton",
+            "seed": 9
+          },
+          "predicted_winner": "Louisville",
+          "confidence": 50,
+          "reasoning": "1. Louisville's defensive strength, particularly Chucky Hepburn's perimeter defense, matches up well against Creighton's ball movement-dependent offense. Creighton's vulnerability to pressure defense could be exploited. Note: Confidence reduced due to historical upset patterns in 8-9 seed matchups.",
+          "sources": [
+            "https://louisville.rivals.com/news/louisville-opens-ncaa-tournament-with-creighton",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.si.com/betting/creighton-vs-louisville-prediction-odds-key-players-to-watch-ncaa-tournament-first-round",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-creighton-vs-louisville-odds-picks-and-predictions/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://gocreighton.com/news/2025/2/13/the-garden-awaits-as-24-mens-basketball-visits-9-st-johns-for-big-east-lead.aspx",
+            "https://www.espn.com/mens-college-basketball/team/schedule/_/id/156/creighton-bluejays",
+            "https://www.sofascore.com/team/basketball/creighton-bluejays/66364",
+            "https://www.covers.com/ncaab/march-madness/creighton-vs-louisville-predictions-picks-odds-thursday-3-20-2025",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/louisville-creighton-predictions-picks-ncaa-bracket/82524604007/",
+            "https://www.actionnetwork.com/ncaab/ncaa-tournament-odds-predictions-creighton-vs-louisville-high-point-vs-purdue-thursday-march-20-pro-qs",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-8-vs-9",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.ncaa.com/news/basketball-men/article/2025-01-29/history-9-seeds-vs-8-seeds-march-madness"
+          ]
+        },
+        {
+          "game_id": "R1G3",
+          "region": "South",
+          "team1": {
+            "name": "Michigan",
+            "seed": 5
+          },
+          "team2": {
+            "name": "UC San Diego",
+            "seed": 12
+          },
+          "predicted_winner": "Michigan",
+          "confidence": 57,
+          "reasoning": "1. Michigan's significant size advantage and interior presence will be crucial against UCSD's lack of players over 6'8\", likely leading to rebounding advantages and efficient scoring opportunities\n2. While UCSD's turnover-forcing defense is impressive, Michigan's experience in close games (13-4 in games decided by 5 points or fewer) and stronger strength of schedule suggests they'll handle the pressure better\n3. Despite the historical 12-5 upset tendency, UCSD's limited experience against high-major competition (only 3 Quad 1 games) compared to Michigan's Big Ten tournament success makes the Wolverines the more reliable pick",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://collegefootballnews.com/college-basketball/michigan-vs-uc-san-diego-prediction-preview-odds-ncaa-tournament",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-5-seed-breakdowns-michigan-clemson-memphis-oregon",
+            "https://www.nytimes.com/athletic/6210013/2025/03/17/march-madness-upsets-south-region-mens-ncaa-tournament/",
+            "https://www.maizenbrew.com/2025/3/17/24387658/ncaa-tournament-michigan-basketball-uc-san-diego-march-madness-south-region-2025-season",
+            "https://www.cbssports.com/college-basketball/news/2025-march-madness-predictions-ncaa-bracket-expert-picks-against-the-spread-odds-in-thursdays-round-1-games/",
+            "https://www.actionnetwork.com/ncaab/michigan-vs-uc-san-diego-predictions-spread-over-under-picks-pro",
+            "https://www.foxsports.com/stories/college-basketball/2025-mens-march-madness-odds-best-bets-gonzaga-georgia-michigan-ucsd",
+            "https://www.bleachernation.com/college-basketball/2025/03/18/5-vs-12-history/",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-5-vs-12",
+            "https://www.sportingnews.com/us/ncaa-basketball/news/march-madness-12-seed-upsets-history/1lm1205q9bd9013coysbolvo55"
+          ]
+        },
+        {
+          "game_id": "R1G4",
+          "region": "South",
+          "team1": {
+            "name": "Texas A&M",
+            "seed": 4
+          },
+          "team2": {
+            "name": "Yale",
+            "seed": 13
+          },
+          "predicted_winner": "Texas A&M",
+          "confidence": 62,
+          "reasoning": "1. A&M's dominant offensive rebounding (#1 nationally) will be particularly crucial against Yale, likely generating 8-10 extra possessions per game. While Yale is solid on the boards, A&M's +9.3 rebound margin represents a significant advantage that should help overcome their shooting inefficiencies.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://12thman.com/news/2025/3/19/mens-basketball-aggies-battle-yale-bulldogs-in-first-round-of-ncaa-tournament",
+            "https://www.si.com/betting/yale-vs-texas-am-prediction-odds-key-players-to-watch-for-ncaa-tournament-first-round-01jpjrhq37wf",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2025/03/18/texas-aggies-basketball-march-madness-2025-bracket-ncaa-tournament-cbs-sports/82520681007/",
+            "https://gigemgazette.com/texas-a-m-basketball-s-biggest-strengths-and-weaknesses-heading-into-march-madness",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://blackatlantic.uga.edu/yale-brown-basketball-prediction",
+            "https://www.cbssports.com/college-basketball/news/2025-march-madness-predictions-ncaa-bracket-expert-picks-against-the-spread-odds-in-thursdays-round-1-games/",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-bracket-picks-upsets-fade-these-top-seeded-teams-to-help-your-ncaa-tournament-pool-odds-152952796.html",
+            "https://www.foxsports.com/articles/college-basketball/texas-am-vs-yale-prediction-odds-picks-ncaa-tournament-first-round",
+            "https://www.bleachernation.com/college-basketball/2025/03/19/4-vs-13-history/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://fansided.com/how-often-does-a-no-13-seed-beat-a-no-4-seed-march-madness-bracket-tips"
+          ]
+        },
+        {
+          "game_id": "R1G5",
+          "region": "South",
+          "team1": {
+            "name": "Ole Miss",
+            "seed": 6
+          },
+          "team2": {
+            "name": "San Diego St./North Carolina",
+            "seed": 11
+          },
+          "predicted_winner": "North Carolina",
+          "confidence": 58,
+          "reasoning": "1. North Carolina's dominant First Four performance (95-68 win) demonstrates they're significantly underseeded as an #11 and playing their best basketball at the right time, with RJ Davis showing exceptional form (26 points, perfect from three).",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.cbssports.com/general/news/ncaa-bracket-predictions-model-locks-in-surprising-march-madness-2025-tournament-picks/",
+            "https://www.cbssports.com/college-basketball/news/north-carolina-battles-ole-miss-after-rout-in-first-four/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://www.redcuprebellion.com/2025/3/17/24387473/march-madness-2025-analyzing-the-path-for-ole-miss-rebels-mens-basketball",
+            "https://sports.yahoo.com/college-basketball/live/march-madness-2025-scores-unc-throttles-san-diego-state-in-first-four-blowout-alabama-state-wins-on-hail-mary-214750635.html",
+            "https://goheels.com/news/2025/3/18/mens-basketball-mbb-ncaa-recap-vs-san-diego-state",
+            "https://goaztecs.com/news/2025/3/18/ncca-first-4-mens-basketball-v-north-carolina",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://www.si.com/college/olemiss/basketball/the-betting-odds-ole-miss-basketball-vs-north-carolina-tar-heels-in-ncaa-tourney-01jpqcknwgm0",
+            "https://sports.yahoo.com/college-basketball/article/2025-march-madness-picks-expert-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913971.html",
+            "https://www.cbssports.com/general/news/mens-tournament-11-vs-6-upset-rankings-is-missouri-vulnerable-in-the-first-round/",
+            "https://fansided.com/ncaa-tournament-history-11-6-upsets-march-madness",
+            "https://www.thelines.com/odds/march-madness/6-vs-11/"
+          ]
+        },
+        {
+          "game_id": "R1G6",
+          "region": "South",
+          "team1": {
+            "name": "Iowa State",
+            "seed": 3
+          },
+          "team2": {
+            "name": "Lipscomb",
+            "seed": 14
+          },
+          "predicted_winner": "Iowa State",
+          "confidence": 82,
+          "reasoning": "1. Despite injury concerns, Iowa State's elite defensive metrics and proven ability to beat top teams gives them a significant advantage over Lipscomb's high-tempo offense. Their DPI rating suggests they're one of the strongest #3 seeds in recent years.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://www.bleachernation.com/picks/2025/03/19/iowa-state-vs-lipscomb-prediction-expert-picks-odds-stats-and-best-bets-ncaa-tournament-first-round/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.widerightnattylite.com/2025/3/19/24389070/the-dpi-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://www.clutchbuzz.bet/ncaab/iowa-state-vs-lipscomb-betting-predictions/",
+            "https://www.foxsports.com/articles/college-basketball/iowa-state-vs-lipscomb-prediction-odds-picks-ncaa-tournament-first-round",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://www.si.com/college-basketball/every-no-14-seed-to-beat-3-seed-march-madness-history-mens-womens-ncaa-tournament",
+            "https://www.thelines.com/odds/march-madness/3-vs-14/"
+          ]
+        },
+        {
+          "game_id": "R1G7",
+          "region": "South",
+          "team1": {
+            "name": "Marquette",
+            "seed": 7
+          },
+          "team2": {
+            "name": "New Mexico",
+            "seed": 10
+          },
+          "predicted_winner": "Marquette",
+          "confidence": 55,
+          "reasoning": "1. Marquette's exceptional lineup continuity (same starting five all season) is a significant advantage in tournament play, particularly compared to New Mexico's heavy roster turnover from last season.\n2. Marquette's tournament experience (37th appearance) and recent success (Sweet 16 last year) combined with their strong performance against NCAA tournament teams (13 games) this season suggests better preparation for high-stakes matchups.\n3. While New Mexico has an impressive record, Marquette's stronger competition schedule in the Big East and their ability to maintain possession (top-20 turnover margin) should give them an edge in what historical data suggests will be a close game between 7 and 10 seeds.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://gomarquette.com/news/2025/3/19/mens-basketball-mubb-opens-ncaa-tournament-friday-night-vs-new-mexico",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-south-region-bracket-cinderella-picks-schedule-odds-and-more-133859945.html",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_New_Mexico_Lobos_men%27s_basketball_team",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_New_Mexico_State_Aggies_men%27s_basketball_team",
+            "https://www.nytimes.com/athletic/college-basketball/team/new-mexico-lobos-college-basketball/roster/",
+            "https://www.cbssports.com/college-basketball/news/2025-march-madness-upset-predictions-expert-picks-for-ncaa-tournament-bracket-busters-to-help-win-your-pool/",
+            "https://www.bleachernation.com/picks/2025/03/19/marquette-vs-new-mexico-prediction-expert-picks-odds-stats-and-best-bets-ncaa-tournament-first-round/",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/marquette-vs-new-mexico-prediction-odds-preview-march-madness-first-round-march-21-2025/",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-7-vs-10",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R1G8",
+          "region": "South",
+          "team1": {
+            "name": "Michigan State",
+            "seed": 2
+          },
+          "team2": {
+            "name": "Bryant",
+            "seed": 15
+          },
+          "predicted_winner": "Michigan State",
+          "confidence": 98,
+          "reasoning": "1. The statistical mismatch is significant - Michigan State's 6th-ranked defense and superior rebounding (8th nationally in defensive rebounding) should neutralize Bryant's primary strength of offensive rebounding.\n2. While Bryant has offensive firepower (82.4 ppg), they've struggled badly against top competition, losing by large margins to KenPom top-100 teams. Michigan State's elite defense and tournament-tested coaching under Tom Izzo present an even greater challenge.\n3. Historical data shows #15 seeds win only 6.9% of the time, and Bryant's profile doesn't suggest they have the exceptional characteristics of past successful #15 seeds. Their struggles against strong rebounding teams (4-8 record) is particularly concerning against MSU's physicality.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.youtube.com/watch?v=D_jyBNRG8eg",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://msuspartans.com/sports/2018/7/20/sports-m-baskbl-archive-msu-m-baskbl-archive-html.aspx",
+            "https://www.nytimes.com/athletic/college-basketball/team/michigan-state-spartans-college-basketball/roster/",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_Michigan_State_Spartans_women%27s_basketball_team",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/michigan-state-vs-bryant-prediction-odds-preview-march-madness-first-round-march-21-2025/",
+            "https://www.covers.com/ncaab/march-madness/bryant-vs-michigan-state-predictions-picks-odds-friday-3-21-2025",
+            "https://bustingbrackets.com/bryant-vs-michigan-state-men-s-basketball-how-to-watch-odds-injuries-series-history-and-prediction",
+            "https://www.bleachernation.com/college-basketball/2025/03/18/15-vs-2-history/",
+            "https://www.sportingnews.com/us/ncaa-basketball/news/march-madness-15-seed-upsets-history/5e872uc9mflp1irm12ehdel4l",
+            "https://www.covers.com/ncaab/march-madness/march-madness-seed-history-two-vs-fifteen"
+          ]
+        },
+        {
+          "game_id": "R1G9",
+          "region": "West",
+          "team1": {
+            "name": "Florida",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Norfolk State",
+            "seed": 16
+          },
+          "predicted_winner": "Florida",
+          "confidence": 99,
+          "reasoning": "1. The significant statistical advantage for Florida (85.4 PPG vs 77.3 PPG) combined with Norfolk State's defensive efficiency issues (ranked 217th) suggests Florida's superior offense will overwhelm Norfolk State's defense.\n2. While Norfolk State has shown ability to compete with major programs early in games, Florida's depth and frontline advantages should prove decisive over a full 40 minutes, particularly given Norfolk State's limited frontcourt presence.\n3. Although #16 seeds have had recent success (2 wins in 6 years), Florida's strong regular season performance (30-4) and momentum from winning their conference tournament indicates they're well-positioned to avoid an upset, even with Norfolk State's efficient three-point shooting.",
+          "sources": [
+            "https://www.wtkr.com/sports/spartans-hit-the-road-where-top-seeded-florida-awaits",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.alligator.org/article/2025/03/the-pregame-florida-basketball-prepares-for-norfolk-state-s-tempo",
+            "https://www.gainesville.com/story/sports/college/basketball/2025/03/18/teams-that-could-cause-florida-basketball-problems-in-march-madness/82377751007/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://gatorswire.usatoday.com/story/sports/college/gators/mens-basketball/2025/03/18/florida-norfolk-state-march-madness-prediction-picks/82517950007/",
+            "https://nsuspartans.com/news/2025/3/15/mens-basketball-spartans-overcome-11-point-deficit-to-secure-2025-meac-tournament-championship-vs-scsu.aspx",
+            "https://1230thegambler.iheart.com/content/2025-03-20-florida-vs-norfolk-state-predictions-ncaa-tournament/",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-betting-lines-odds-which-low-seeds-have-the-best-chances-of-pulling-a-huge-1st-round-upset-234649784.html",
+            "https://www.bleachernation.com/cubs/2025/03/19/florida-vs-norfolk-state-prediction-expert-picks-odds-stats-and-best-bets-ncaa-tournament-first-round/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-02-05/records-every-seed-march-madness-1985-2024",
+            "https://www.ncaa.com/news/basketball-men/article/2025-01-24/history-1-seed-vs-16-seed-march-madness",
+            "https://bracketodds.cs.illinois.edu/seed_records.html"
+          ]
+        },
+        {
+          "game_id": "R1G10",
+          "region": "West",
+          "team1": {
+            "name": "UConn",
+            "seed": 8
+          },
+          "team2": {
+            "name": "Oklahoma",
+            "seed": 9
+          },
+          "predicted_winner": "UConn",
+          "confidence": 50,
+          "reasoning": "1. Despite the historical slight edge for #9 seeds, UConn's stronger statistical profile (particularly their elite 1.8 assist-to-turnover ratio) and predictive models favoring them with 74% win probability suggest they have a meaningful advantage.\n2. While Oklahoma has shown better recent form against the spread, UConn's superior overall efficiency metrics and proven ability to perform in tournament settings (as defending champions) give them an edge in this high-stakes matchup.\n3. The matchup between UConn's Liam McNeeley and Oklahoma's Jeremiah Fears appears relatively even, but UConn's overall team composition and tournament experience should help them overcome Oklahoma's recent momentum.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-bracket-upset-picks-march-madness-advice-predictions-strategy/",
+            "http://www.newson6.com/story/67db0351ec4ccb2d7f468b62/uconn-vs-oklahoma-one-of-top-games-to-watch-in-ncaa-tournament",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.cbssports.com/general/news/ncaa-tournament-2025-march-madness-cinderella-upset-picks-bracket-busters-by-top-college-basketball-model/",
+            "https://www.covers.com/ncaab/march-madness/oklahoma-vs-uconn-predictions-picks-odds-friday-3-21-2025",
+            "https://sports.betmgm.com/en/blog/ncaab/oklahoma-uconn-prediction-odds-picks-mar-21-college-basketball-jaa/",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-8-vs-9",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R1G11",
+          "region": "West",
+          "team1": {
+            "name": "Memphis",
+            "seed": 5
+          },
+          "team2": {
+            "name": "Colorado State",
+            "seed": 12
+          },
+          "predicted_winner": "Colorado State",
+          "confidence": 50,
+          "reasoning": "1. Memphis's key vulnerability matches Colorado State's strengths - the Rams' efficient offense and three-point shooting (42.8%) can exploit Memphis's defensive weaknesses, while Tyrese Hunter's injury issues further compromise Memphis's defense. Note: Confidence reduced due to historical upset patterns in 5-12 seed matchups.",
+          "sources": [
+            "https://www.bleachernation.com/picks/2025/03/19/colorado-state-vs-memphis-prediction-expert-picks-odds-stats-and-best-bets-ncaa-tournament-first-round/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/memphis-vs-colorado-state-prediction-odds-preview-march-madness-first-round-march-21-2025/",
+            "https://michiganstate.rivals.com/news/dr-green-and-white-bracket-advice-part-two-making-all-the-picks",
+            "https://sportsview360.com/breaking-down-the-athletics-memphis-march-madness-outlook/",
+            "https://dataanddivergence.substack.com/p/how-to-win-your-march-madness-bracket",
+            "https://www.nytimes.com/athletic/6209974/2025/03/17/march-madness-upsets-west-region-mens-ncaa-tournament/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.coloradoan.com/story/sports/csu/mens-basketball/2025/03/17/colorado-state-memphis-basketball-march-madness-expert-predictions/82492354007/",
+            "https://www.vegasinsider.com/college-basketball/march-madness-odds-2025/",
+            "https://www.bleachernation.com/college-basketball/2025/03/18/5-vs-12-history/",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-5-vs-12",
+            "https://www.sportingnews.com/us/ncaa-basketball/news/march-madness-12-seed-upsets-history/1lm1205q9bd9013coysbolvo55"
+          ]
+        },
+        {
+          "game_id": "R1G12",
+          "region": "West",
+          "team1": {
+            "name": "Maryland",
+            "seed": 4
+          },
+          "team2": {
+            "name": "Grand Canyon",
+            "seed": 13
+          },
+          "predicted_winner": "Maryland",
+          "confidence": 72,
+          "reasoning": "1. Maryland's elite defensive efficiency (ranked 6th nationally) and balanced scoring attack with five double-digit scorers gives them multiple ways to control the game\n2. The inside presence of Derik Queen (16.3 PPG, 9.0 RPG) and his recent hot streak (20.0 PPG in last five games) should be particularly effective against Grand Canyon's defense, which allows a high percentage of close two-point attempts\n3. While #13 seeds have had recent success (21% historical upset rate), Maryland's statistical profile (12th in KenPom) and strong net rating (+20.7) suggest they're better positioned than typical #4 seeds to avoid an upset",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.covers.com/ncaab/march-madness/grand-canyon-vs-maryland-predictions-picks-odds-friday-3-21-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/maryland-vs-grand-canyon-prediction-odds-preview-march-madness-first-round-march-21-2025/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.testudotimes.com/2025/3/19/24388959/how-maryland-mens-basketball-compares-to-the-programs-best-ncaa-tournament-teams-of-the-past",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://burncitysports.com/2025/03/18/gcu-head-coach-prepares-lopes-for-competitive-ncaa-tournament-opener-2025/",
+            "https://www.cbssports.com/general/news/mens-tournament-13-vs-4-upset-rankings-is-purdue-vulnerable-to-an-early-exit/",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-13-seed-breakdowns-akron-grand-canyon-high-point-yale",
+            "https://www.bleachernation.com/picks/2025/03/19/maryland-vs-grand-canyon-prediction-expert-picks-odds-stats-and-best-bets-ncaa-tournament-first-round/",
+            "https://www.fanduel.com/research/2-best-college-basketball-bets-and-player-props-for-maryland-vs-grand-canyon-2025-mens-tournament-first-round",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://fansided.com/how-often-does-a-no-13-seed-beat-a-no-4-seed-march-madness-bracket-tips",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-4-vs-13"
+          ]
+        },
+        {
+          "game_id": "R1G13",
+          "region": "West",
+          "team1": {
+            "name": "Missouri",
+            "seed": 6
+          },
+          "team2": {
+            "name": "Drake",
+            "seed": 11
+          },
+          "predicted_winner": "Drake",
+          "confidence": 58,
+          "reasoning": "1. Drake's exceptional efficiency metrics (48.1% FG percentage) and strong defensive performance (holding opponents to 58.4 points) match up well against Missouri's recent offensive struggles.\n2. Drake's methodical pace and excellent ball control (1.2 assist-to-turnover ratio) should help neutralize Missouri's preferred up-tempo style, especially with Bennett Stirtz's steady floor leadership.\n3. Historical trends favor the upset (39% success rate for #11 seeds), and Drake's impressive 30-3 record suggests they're particularly strong for their seed, while Missouri's recent form (losing 4 of last 5 regular season games) raises concerns.",
+          "sources": [
+            "https://www.yahoo.com/news/know-missouri-basketball-drakes-first-021014160.html",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.rockmnation.com/2025/3/19/24389373/mizzou-drake-ncaa-tournament-underdog-could-prevent-trendy-upset-pick",
+            "https://www.si.com/college/missouri/basketball/who-is-mizzou-s-x-factor-in-march-madness-the-extra-point-01jpmv8jybmx",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.2adays.com/blog/college-athletics-news-march-madness-2025-top-contenders-predictions-final-four-favorites/",
+            "https://vsin.com/college-basketball/no-6-missouri-vs-no-11-drake-ncaa-tournament-west-region-march-madness-preview-and-prediction/",
+            "https://godrakebulldogs.com/sports/mens-basketball/stats/2024-25?path=mbball",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-drake-vs-missouri-odds-picks-and-predictions/",
+            "https://www.covers.com/ncaab/march-madness/drake-vs-missouri-predictions-picks-odds-thursday-3-20-2025",
+            "https://www.si.com/betting/drake-vs-missouri-prediction-odds-key-players-to-watch-for-ncaa-tournament-first-round-01jpjtys7vj7",
+            "https://www.cbssports.com/general/news/mens-tournament-11-vs-6-upset-rankings-is-missouri-vulnerable-in-the-first-round/",
+            "https://fansided.com/ncaa-tournament-history-11-6-upsets-march-madness",
+            "https://www.thelines.com/odds/march-madness/6-vs-11/"
+          ]
+        },
+        {
+          "game_id": "R1G14",
+          "region": "West",
+          "team1": {
+            "name": "Texas Tech",
+            "seed": 3
+          },
+          "team2": {
+            "name": "UNCW",
+            "seed": 14
+          },
+          "predicted_winner": "Texas Tech",
+          "confidence": 87,
+          "reasoning": "1. Texas Tech's superior offensive efficiency (80.9 PPG, 31st nationally) and balanced scoring attack led by JT Toppin (18.1 PPG) should overwhelm UNCW's defense, especially with a fully healthy roster including Darrion Williams' return.",
+          "sources": [
+            "https://www.kcbd.com/2025/03/20/texas-tech-preps-first-round-meeting-against-unc-wilmington-ncaa-tournament/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://uncwsports.com/news/2025/3/19/mens-basketball-mbb-fan-guide-texas-tech.aspx",
+            "https://www.sofascore.com/team/basketball/texas-tech-red-raiders/86812",
+            "https://www.espn.com/mens-college-basketball/team/_/id/2641/texas-tech-red-raiders",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/2641/texas-tech-red-raiders",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-14-seed-breakdowns-lipscomb-montana-troy-unc-wilmington",
+            "https://uncw.edu/news/2025/03/uncw-soars-to-seventh-caa-championship",
+            "https://stories.autonationdrive.com/romantic/uncw-mens-basketball-a-comprehensive-guide-to-success-and-strategy.html",
+            "https://www.si.com/betting/unc-wilmington-vs-texas-tech-prediction-odds-key-players-to-watch-for-ncaa-tournament-first-round-01jpjykgqkpc",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-betting-lines-odds-which-low-seeds-have-the-best-chances-of-pulling-a-huge-1st-round-upset-234649784.html",
+            "https://www.nbcsports.com/betting/college-basketball/news/unc-wilmington-vs-texas-tech-prediction-odds-expert-picks-betting-trends-and-stats-for-2025-march-madness",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://www.si.com/college-basketball/every-no-14-seed-to-beat-3-seed-march-madness-history-mens-womens-ncaa-tournament",
+            "https://www.thelines.com/odds/march-madness/3-vs-14/"
+          ]
+        },
+        {
+          "game_id": "R1G15",
+          "region": "West",
+          "team1": {
+            "name": "Kansas",
+            "seed": 7
+          },
+          "team2": {
+            "name": "Arkansas",
+            "seed": 10
+          },
+          "predicted_winner": "Kansas",
+          "confidence": 55,
+          "reasoning": "1. Kansas's interior defense (18th in opponent two-point FG%) matches up well against Arkansas's interior-focused offense, with Hunter Dickinson being a key defensive anchor\n2. Kansas received a favorable tournament draw and is considered \"arguably the most dangerous seven-seed,\" suggesting they're better than their seeding indicates\n3. Despite Arkansas's recent momentum (5-2 in last 7), Kansas's defensive strengths and tournament experience under Bill Self give them a slight edge in what projects to be a close game",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://arkansasrazorbacks.com/mbb-ncaa-tourney-preview-arkansas-vs-kansas-2/",
+            "https://sports.yahoo.com/article/arkansas-vs-kansas-prediction-odds-174144983.html",
+            "https://collegefootballnetwork.com/mens-college-basketball/march-madness-why-kansas-good-draw-2025-ncaa-tournament/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://247sports.com/longformarticle/arkansas-basketball-preview-starting-lineup-projections-strengths-weaknesses-xs-and-os-superlatives-238489745/",
+            "https://www.si.com/betting/arkansas-vs-kansas-prediction-odds-key-players-watch-ncaa-tournament-first-round",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-arkansas-vs-kansas-odds-picks-and-predictions-2/",
+            "https://www.cbssports.com/general/news/march-madness-2025-bracket-ncaa-tournament-picks-predictions-by-top-rated-college-basketball-model/",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-7-vs-10",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.thelines.com/odds/march-madness/7-vs-10/"
+          ]
+        },
+        {
+          "game_id": "R1G16",
+          "region": "West",
+          "team1": {
+            "name": "St. John's",
+            "seed": 2
+          },
+          "team2": {
+            "name": "Omaha",
+            "seed": 15
+          },
+          "predicted_winner": "St. John's",
+          "confidence": 97,
+          "reasoning": "1. St. John's significant statistical advantages (30-4 record, elite defense generating 17.9 points off turnovers) combined with Rick Pitino's tournament experience create a formidable challenge for a first-time tournament team like Omaha.\n2. While Omaha has strong perimeter shooting (36.7%), St. John's defensive pressure and significant talent advantage (led by Big East Player of the Year RJ Luis) should overwhelm Omaha's offense, especially given the massive gap in strength of schedule between Big East and Summit League competition.\n3. The game being played in Providence gives St. John's a virtual home court advantage, and the 2025 tournament's historically large statistical gap between #2 and #15 seeds (+26.84) suggests this particular year is less conducive to major upsets in this seed matchup.",
+          "sources": [
+            "https://nypost.com/2025/03/19/sports/st-johns-is-ready-for-the-march-madness-2025-pressure/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.rumbleinthegarden.com/2025/3/19/24389647/2025-ncaa-tournament-first-round-game-thread-2-st-johns-vs-15-omaha-mens-basketball",
+            "https://www.gainesville.com/story/sports/college/basketball/2025/03/18/teams-that-could-cause-florida-basketball-problems-in-march-madness/82377751007/",
+            "https://dataanddivergence.substack.com/p/how-to-win-your-march-madness-bracket",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.cbssports.com/college-basketball/news/rick-pitino-st-johns-zoom-in-on-opener-15-seed-omaha/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.nbcsports.com/betting/college-basketball/news/nebraska-omaha-vs-st-johns-prediction-odds-expert-picks-betting-trends-and-stats-for-2025-march-madness",
+            "https://www.foxsports.com/stories/college-basketball/2025-march-madness-odds-back-clemson-win-omaha-challenge-st-johns",
+            "https://bustingbrackets.com/st-john-s-vs-omaha-march-madness-how-to-watch-odds-injuries-series-history-and-prediction",
+            "https://www.bleachernation.com/college-basketball/2025/03/18/15-vs-2-history/",
+            "https://www.sportingnews.com/us/ncaa-basketball/news/march-madness-15-seed-upsets-history/5e872uc9mflp1irm12ehdel4l",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025"
+          ]
+        },
+        {
+          "game_id": "R1G17",
+          "region": "East",
+          "team1": {
+            "name": "Duke",
+            "seed": 1
+          },
+          "team2": {
+            "name": "American/Mount St. Mary's",
+            "seed": 16
+          },
+          "predicted_winner": "Duke",
+          "confidence": 99,
+          "reasoning": "1. Duke's elite statistical profile (1st in offensive efficiency, 4th in defensive efficiency) combined with their dominant 31-3 record presents an overwhelming advantage against a Mount St. Mary's team that, while showing spirit in their First Four victory, faces significant limitations including missing key players and potential fatigue from playing their 5th game in 8 days.",
+          "sources": [
+            "https://www.nbcsports.com/mens-college-basketball/news/march-madness-mount-st-marys-beats-american-83-72-in-first-four-to-earn-date-with-no-1-duke",
+            "https://mountathletics.com/news/2025/3/19/mens-basketball-mountaineers-advance-in-march-madness-by-outpacing-american.aspx",
+            "https://www.wkrg.com/sports/ap-march-madness-mount-st-marys-beats-american-83-72-in-first-four-to-earn-date-with-no-1-duke/",
+            "https://www.sports-reference.com/cbb/schools/duke/men/2025-schedule.html",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/150/duke-blue-devils",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_Duke_Blue_Devils_men%27s_basketball_team",
+            "https://www.nytimes.com/athletic/6198047/2025/03/19/mens-march-madness-projections-2025-full-ncaa-tournament-bracket-odds/",
+            "https://www.espn.com/mens-college-basketball/matchup?gameId=401745913",
+            "https://vsin.com/college-basketball/no-16-american-vs-no-16-mount-st-marys-ncaa-tournament-east-region-march-madness-preview-and-prediction/",
+            "https://vsin.com/college-basketball/ncaa-tournament-east-region-no-16-mount-st-marys-vs-no-1-duke-march-madness-preview-and-prediction/",
+            "https://bleacherreport.com/articles/25173320-mount-st-marys-beats-american-impresses-fans-ahead-march-madness-battle-vs-duke",
+            "https://www.ncaa.com/news/basketball-men/article/2025-02-05/records-every-seed-march-madness-1985-2024",
+            "https://www.ncaa.com/news/basketball-men/article/2025-01-24/history-1-seed-vs-16-seed-march-madness",
+            "https://bracketodds.cs.illinois.edu/seed_records.html"
+          ]
+        },
+        {
+          "game_id": "R1G18",
+          "region": "East",
+          "team1": {
+            "name": "Mississippi State",
+            "seed": 8
+          },
+          "team2": {
+            "name": "Baylor",
+            "seed": 9
+          },
+          "predicted_winner": "Baylor",
+          "confidence": 50,
+          "reasoning": "1. Despite their lower seed, Baylor ranks higher in blended power ratings (25th vs 32nd) and has proven more capable against elite competition, with six wins against top-15 KenPom teams. Mississippi State is 0-8 against top-16 NET teams.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.covers.com/ncaab/march-madness/baylor-vs-mississippi-state-predictions-picks-odds-friday-3-21-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/mississippi-state-vs-baylor-prediction-odds-preview-march-madness-first-round-march-21-2025/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.clarionledger.com/story/sports/college/mississippi-state/2025/03/16/mississippi-state-baylor-march-madness-prediction-picks/81954174007/",
+            "https://big12sports.com/boxscore.aspx?id=7ltyipP022aUJKmSgYVs3wXi7up73ghniwD5ElWyd07J7BNseBaMQePf0fY%2F3yUPVtQAZZ1dFsAnl%2BENICpO2OS8clKApCCiyWNQ72WrPAzHl3qUDXFDGyjU80mlPko3mmF6ZIcSjaN%2FRzrbUSuKTSqVuNbpY4kOSincpAWdr1M%3D&path=mbball",
+            "https://www.oddsshark.com/ncaab/baylor-mississippi-state-odds-march-21-2025-2385368",
+            "https://www.fanduel.com/research/2-best-college-basketball-bets-and-player-props-for-baylor-vs-mississippi-state-2025-mens-tournament-first-round",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-8-vs-9",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R1G19",
+          "region": "East",
+          "team1": {
+            "name": "Oregon",
+            "seed": 5
+          },
+          "team2": {
+            "name": "Liberty",
+            "seed": 12
+          },
+          "predicted_winner": "Liberty",
+          "confidence": 50,
+          "reasoning": "1. Liberty's superior shooting efficiency (6th in FG%, 6th in 3PT%) and strong defense (10th in points allowed) match the profile of successful #12 seed upset teams historically.\n2. While Oregon has faced tougher competition, Liberty's balanced scoring attack (7 players averaging 8+ points) and elite ball security (9.4 turnovers per game) suggest they can handle Oregon's defensive pressure.\n3. The historical 35.3% success rate of #12 seeds, combined with Liberty's momentum (winning CUSA championship) and strong statistical profile, make them a prime candidate for one of the typical 1-2 twelve-seed upsets per tournament.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.yardbarker.com/college_basketball/articles/oregon_vs_liberty_1st_round_preview_2025_ncaa_tournament/s1_17396_41928576",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://gohuskies.com/sports/mens-basketball/stats/2024-25/oregon/boxscore/23989",
+            "https://www.si.com/college/arizona/basketball/arizona-ranked-among-best-teams-in-2025-ncaa-tournament-bracket-01jpjpewazgz",
+            "https://www.nytimes.com/athletic/college-basketball/game/kennesaw-state-owls-vs-liberty-flames/Mdlpg0jvMmmtsEA8/",
+            "https://ripcityradio.iheart.com/content/2025-03-20-oregon-vs-liberty-predictions-ncaa-tournament/",
+            "https://bustingbrackets.com/liberty-vs-oregon-men-s-basketball-how-to-watch-odds-injuries-series-history-and-prediction",
+            "https://www.msn.com/en-us/sports/other/oregon-vs-liberty-picks-predictions-odds-who-wins-march-madness-ncaa-tournament-game/ar-AA1B6Uvc",
+            "https://www.bleachernation.com/college-basketball/2025/03/18/5-vs-12-history/",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-5-vs-12",
+            "https://www.sportingnews.com/us/ncaa-basketball/news/march-madness-12-seed-upsets-history/1lm1205q9bd9013coysbolvo55"
+          ]
+        },
+        {
+          "game_id": "R1G20",
+          "region": "East",
+          "team1": {
+            "name": "Arizona",
+            "seed": 4
+          },
+          "team2": {
+            "name": "Akron",
+            "seed": 13
+          },
+          "predicted_winner": "Arizona",
+          "confidence": 72,
+          "reasoning": "1. Arizona's battle-tested schedule (4th toughest in country) and 10 Quad 1 victories against elite competition provide better preparation than Akron's MAC schedule\n2. While Akron's 3-point shooting prowess (10.9 per game) could keep them competitive, Arizona's strong interior scoring and defensive versatility should ultimately prevail\n3. The 21% historical upset rate for #13 seeds is notable, but Arizona's late-season form (Big 12 tournament runner-up) and expert consensus suggesting Final Four potential indicate they should avoid becoming an upset victim",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.si.com/college/arizona/basketball/arizona-in-the-final-four-experts-make-surprising-march-madness-picks-01jpqv31rj56",
+            "https://www.youtube.com/watch?v=vBkOwI9TAx0",
+            "https://www.si.com/college/arizona/basketball/arizona-ranked-among-best-teams-in-2025-ncaa-tournament-bracket-01jpjpewazgz",
+            "https://www.azdesertswarm.com/basketball/2025/3/17/24387593/arizona-wildcats-mens-basketball-ncaa-tournament-analysis-performance-akron-zips-2025",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://sports.yahoo.com/article/akron-zips-basketball-vs-arizona-222329812.html",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-13-seed-breakdowns-akron-grand-canyon-high-point-yale",
+            "https://www.azcentral.com/story/sports/college/ua/2025/03/19/march-madness-picks-predictions-big-12-final-four-arizona-champion/82555702007/",
+            "https://www.sportsline.com/insiders/arizona-vs-akron-odds-prediction-2025-ncaa-tournament-picks-from-proven-model",
+            "https://www.foxsports.com/articles/college-basketball/arizona-vs-akron-prediction-odds-picks-ncaa-tournament-first-round",
+            "https://www.bleachernation.com/college-basketball/2025/03/19/4-vs-13-history/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://fansided.com/how-often-does-a-no-13-seed-beat-a-no-4-seed-march-madness-bracket-tips"
+          ]
+        },
+        {
+          "game_id": "R1G21",
+          "region": "East",
+          "team1": {
+            "name": "BYU",
+            "seed": 6
+          },
+          "team2": {
+            "name": "VCU",
+            "seed": 11
+          },
+          "predicted_winner": "BYU",
+          "confidence": 58,
+          "reasoning": "1. BYU's elite offensive efficiency (11th nationally) and strong 3-point shooting should challenge VCU's defense, which hasn't faced many high-powered offenses this season. BYU's experience against top Big 12 competition (5-2 against teams with better defensive rankings than VCU) suggests they can handle defensive pressure. Note: Confidence reduced due to historical upset patterns in 6-11 seed matchups.",
+          "sources": [
+            "https://www.deseret.com/sports/2025/03/19/vcu-rams-basketball-ryan-odom-ncaa-tournament-byu-cougars-elevation-excuses/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://apnews.com/ds/mens-college-basketball-nid59834-syid23237-mid3145043-dataskrive-story",
+            "https://www.deseret.com/sports/2025/03/19/breaking-down-byu-vcu-ncaa-tournament-game/",
+            "https://wtop.com/ncaa-basketball/2025/03/byu-defies-low-expectations-and-overcomes-slow-start-to-become-a-team-to-watch-in-march-madness/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://atlantic10.com/boxscore.aspx?id=7ltyipP022aUJKmSgYVs3wXi7up73ghniwD5ElWyd07J7BNseBaMQePf0fY%2F3yUPBXom3LzIlYbwGpQ2snPrcgsvTBzKraOqVEMwL9WNFPBdsrrt5pB8oedyfWzdzCutndp1VtrhaXWQlMrEpcI0uHG3%2BvzN2bwHVv%2BqLKi%2B5UU%3D&path=mbball",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-vcu-vs-byu-odds-picks-and-predictions/",
+            "https://www.vanquishthefoe.com/2025/3/19/24388214/byu-vs-vcu-basketball-game-preview-march-madness-keys-to-the-game-vcu-overview-prediction-betting",
+            "https://dknetwork.draftkings.com/2025/03/19/vcu-vs-byu-picks-predictions-for-march-madness/",
+            "https://www.cbssports.com/general/news/mens-tournament-11-vs-6-upset-rankings-is-missouri-vulnerable-in-the-first-round/",
+            "https://fansided.com/ncaa-tournament-history-11-6-upsets-march-madness",
+            "https://www.thelines.com/odds/march-madness/6-vs-11/"
+          ]
+        },
+        {
+          "game_id": "R1G22",
+          "region": "East",
+          "team1": {
+            "name": "Wisconsin",
+            "seed": 3
+          },
+          "team2": {
+            "name": "Montana",
+            "seed": 14
+          },
+          "predicted_winner": "Wisconsin",
+          "confidence": 88,
+          "reasoning": "1. The significant disparity in team efficiency metrics is compelling - Wisconsin's top-15 offensive efficiency and #27 defensive efficiency gives them a clear two-way advantage over Montana's much lower rankings (#98 offense, #250 defense).",
+          "sources": [
+            "https://www.buckys5thquarter.com/2025/3/19/24389513/breaking-down-the-east-region-what-is-wisconsins-potential-path-to-the-final-four",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.jsonline.com/story/sports/college/uw/2025/03/19/march-madness-bracket-predictions-wisconsin-vs-montana-odds-14-3-seed-upsets/82550318007/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://badgerswire.usatoday.com/story/sports/college/badgers/mens-basketball/2025/03/19/wisconsin-ncaa-tournament-bracket-predictions/82528342007/",
+            "https://www.buckys5thquarter.com/2025/3/17/24388084/why-wisconsin-badgers-are-national-title-contenders-2025-ncaa-tournament-greg-gard",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://nauathletics.com/sports/mens-basketball/stats/2024-25/montana-state/boxscore/4717",
+            "https://gogriz.com/news/2025/1/23/mens-basketball-griz-face-cats-in-309th-edition-of-the-brawl",
+            "https://www.sportsbettingdime.com/news/college-basketball/montana-vs-wisconsin-odds-picks-predictions-march-20/",
+            "https://www.cbssports.com/college-basketball/news/2025-march-madness-predictions-ncaa-bracket-expert-picks-against-the-spread-odds-in-thursdays-round-1-games/",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/wisconsin-montana-predictions-picks-ncaa-bracket/82527390007/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://www.si.com/college-basketball/every-no-14-seed-to-beat-3-seed-march-madness-history-mens-womens-ncaa-tournament",
+            "https://www.thelines.com/odds/march-madness/3-vs-14/"
+          ]
+        },
+        {
+          "game_id": "R1G23",
+          "region": "East",
+          "team1": {
+            "name": "Saint Mary's",
+            "seed": 7
+          },
+          "team2": {
+            "name": "Vanderbilt",
+            "seed": 10
+          },
+          "predicted_winner": "Saint Mary's",
+          "confidence": 55,
+          "reasoning": "1. Saint Mary's elite defense (5th nationally, allowing just 60.7 PPG) should neutralize Vanderbilt's faster-paced offense, especially given their experience controlling game tempo (359th in pace)\n2. The Gaels' significant rebounding advantage (6th nationally vs Vanderbilt's 98th) will likely limit second-chance opportunities and help control possession\n3. Saint Mary's more consistent season performance (28-5 record, 85.7% win rate as favorite) compared to Vanderbilt's struggles as an underdog (35.7% win rate) suggests they're better equipped to handle tournament pressure Note: Confidence reduced due to historical upset patterns in 7-10 seed matchups.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.bleachernation.com/picks/2025/03/19/saint-marys-ca-vs-vanderbilt-prediction-expert-picks-odds-stats-and-best-bets-ncaa-tournament-first-round/",
+            "https://smcgaels.com/news/2025/3/19/mens-basketball-mbb-10th-seeded-vanderbilt-await-seventh-seeded-gaels-in-cleveland-for-opening-round-of-ncaa-tournament.aspx",
+            "https://www.si.com/college/arizona/basketball/arizona-ranked-among-best-teams-in-2025-ncaa-tournament-bracket-01jpjpewazgz",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/college-basketball/team/saint-mary-s-gaels-college-basketball/stats/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://vucommodores.com/wp-content/uploads/2025/03/2024-25-Vanderbilt-Mens-Basketball-1.pdf",
+            "https://www.foxsports.com/articles/college-basketball/saint-marys-ca-vs-vanderbilt-prediction-odds-picks-ncaa-tournament-first-round",
+            "https://www.sportsline.com/insiders/saint-marys-vs-vanderbilt-odds-prediction-2025-ncaa-tournament-picks-from-proven-model/",
+            "https://www.fanduel.com/research/2-best-college-basketball-bets-and-player-props-for-saint-mary-s-vs-vanderbilt-2025-mens-tournament-first-round",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-7-vs-10",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R1G24",
+          "region": "East",
+          "team1": {
+            "name": "Alabama",
+            "seed": 2
+          },
+          "team2": {
+            "name": "Robert Morris",
+            "seed": 15
+          },
+          "predicted_winner": "Alabama",
+          "confidence": 98,
+          "reasoning": "1. Alabama's #1 ranked scoring offense and multiple scoring options (led by Mark Sears) will likely overwhelm Robert Morris's defense, despite their solid shot-blocking. The offensive firepower gap is simply too wide to overcome. Note: Confidence increased due to historical reliability of 2-15 seed matchups.",
+          "sources": [
+            "https://www.covers.com/ncaab/march-madness/robert-morris-vs-alabama-predictions-picks-odds-friday-3-21-2025",
+            "https://www.cbssports.com/general/news/march-madness-2025-bracket-ncaa-tournament-picks-predictions-by-top-tier-college-basketball-model/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.si.com/college/alabama/basketball/what-is-robert-morris-best-team-stats-just-a-minute-01jpqg8jrkvb",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-15-seed-breakdowns-bryant-omaha-robert-morris-wofford",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-betting-lines-odds-which-low-seeds-have-the-best-chances-of-pulling-a-huge-1st-round-upset-234649784.html",
+            "https://bustingbrackets.com/alabama-vs-robert-morris-men-s-basketball-how-to-watch-odds-injuries-series-history-and-prediction",
+            "https://www.bleachernation.com/college-basketball/2025/03/18/15-vs-2-history/",
+            "https://www.sportingnews.com/us/ncaa-basketball/news/march-madness-15-seed-upsets-history/5e872uc9mflp1irm12ehdel4l",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025"
+          ]
+        },
+        {
+          "game_id": "R1G25",
+          "region": "Midwest",
+          "team1": {
+            "name": "Houston",
+            "seed": 1
+          },
+          "team2": {
+            "name": "SIU Edwardsville",
+            "seed": 16
+          },
+          "predicted_winner": "Houston",
+          "confidence": 99,
+          "reasoning": "1. Houston's elite defense (nation's best at 58.5 PPG allowed) presents an insurmountable challenge for SIUE's offense, especially given SIUE's reported missing scorers and first-ever tournament appearance.\n2. The experience gap is massive - Houston is a seasoned tournament team with their third straight #1 seed, while SIUE is making their first-ever NCAA Tournament appearance.\n3. Houston's recent Big 12 Tournament championship shows they're peaking at the right time, and their defensive metrics (38.3% opponent FG) suggest they can completely shut down SIUE's offense.",
+          "sources": [
+            "https://www.cbssports.com/general/news/ncaa-bracket-predictions-model-dishes-out-surprising-march-madness-2025-tournament-picks/",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-houston-vs-siue-odds-picks-and-predictions/",
+            "https://abc13.com/post/university-houston-mens-basketball-team-gets-ready-tip-off-siu-edwardsville-ncaa-tournament/16052318/",
+            "https://bleacherreport.com/houston-cougars-basketball",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_New_Mexico_Lobos_men%27s_basketball_team",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/248/houston-cougars",
+            "https://sicscore.com/news/march-madness-injury-guide-how-key-injuries-impact-tournament",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-16-seed-breakdowns-alabama-state-to-st-francis",
+            "https://sportsbookwire.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-houston-vs-siue-odds-picks-and-predictions/82554058007/",
+            "https://www.docsports.com/free-picks/ncaa-college-basketball/2025/siu-edwardsville-cougars-vs-houston-cougars-prediction-3-20-2025-college-basketball-picks-best-bets-odds.html",
+            "https://www.ncaa.com/news/basketball-men/article/2025-02-05/records-every-seed-march-madness-1985-2024",
+            "https://www.ncaa.com/news/basketball-men/article/2025-01-24/history-1-seed-vs-16-seed-march-madness",
+            "https://bracketodds.cs.illinois.edu/seed_records.html"
+          ]
+        },
+        {
+          "game_id": "R1G26",
+          "region": "Midwest",
+          "team1": {
+            "name": "Gonzaga",
+            "seed": 8
+          },
+          "team2": {
+            "name": "Georgia",
+            "seed": 9
+          },
+          "predicted_winner": "Gonzaga",
+          "confidence": 50,
+          "reasoning": "1. Gonzaga enters with significant momentum (winning 9 of last 10) and their offensive efficiency (#9 nationally) appears well-positioned to exploit Georgia's defensive vulnerabilities (Georgia allowed 80+ points multiple times in SEC play)\n2. The Graham Ike/Ryan Nembhard duo provides Gonzaga with elite offensive production (Ike's 32.4 PER ranks 3rd nationally, Nembhard leads nation in assists), and their recent success with the dual big-man lineup suggests they can control the interior\n3. While #8 vs #9 matchups are historically close to even, Gonzaga's tournament experience (26 straight appearances, 9 consecutive Sweet 16s) and late-season improvement in closing out games gives them a slight edge in what should be a competitive game",
+          "sources": [
+            "https://www.si.com/college/gonzaga/basketball/what-gonzaga-s-players-ahead-of-georgia-matchup-in-2025-ncaa-tournament-01jprc43hh9z",
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-upset-picks-march-madness-strategy-bracket-advice-predictions/",
+            "https://www.covers.com/ncaab/march-madness/georgia-vs-gonzaga-predictions-picks-odds-thursday-3-20-2025",
+            "https://www.inlander.com/culture/a-look-at-the-stats-that-have-defined-gonzagas-2024-25-season325132-10929-324122-90-12194-29549392",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-georgia-vs-gonzaga-odds-picks-and-predictions/",
+            "https://www.foxsports.com/stories/college-basketball/2025-mens-march-madness-odds-best-bets-gonzaga-georgia-michigan-ucsd",
+            "https://www.cbssports.com/general/news/mens-tournament-9-vs-8-upset-rankings-would-any-outcome-qualify-as-a-shocker/",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-8-vs-9",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025"
+          ]
+        },
+        {
+          "game_id": "R1G27",
+          "region": "Midwest",
+          "team1": {
+            "name": "Clemson",
+            "seed": 5
+          },
+          "team2": {
+            "name": "McNeese",
+            "seed": 12
+          },
+          "predicted_winner": "Clemson",
+          "confidence": 57,
+          "reasoning": "1. Clemson's significant size advantage in the frontcourt (particularly through Schieffelin and Lakhin) against McNeese's tallest player being only 6'7\" creates a critical matchup problem that should translate to rebounding advantages and interior scoring opportunities. Note: Confidence reduced due to historical upset patterns in 5-12 seed matchups.",
+          "sources": [
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-upset-picks-march-madness-strategy-bracket-advice-predictions/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.covers.com/ncaab/march-madness/mc-neese-vs-clemson-predictions-picks-odds-thursday-3-20-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.reddit.com/r/CollegeBasketball/comments/1jd49r4/oc_2025_ncaa_tournament_seven_pretournament_stats/",
+            "https://www.nytimes.com/athletic/college-basketball/team/clemson-tigers-college-basketball/stats/",
+            "https://www.nytimes.com/athletic/6198047/2025/03/19/mens-march-madness-projections-2025-full-ncaa-tournament-bracket-odds/",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-12-seed-breakdowns-colorado-state-liberty-mcneese-uc-san-diego",
+            "https://bustingbrackets.com/mcneese-vs-clemson-men-s-basketball-how-to-watch-odds-injuries-series-history-and-prediction",
+            "https://www.cbssports.com/college-basketball/news/2025-march-madness-predictions-ncaa-bracket-expert-picks-against-the-spread-odds-in-thursdays-round-1-games/",
+            "https://www.bleachernation.com/college-basketball/2025/03/18/5-vs-12-history/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-5-vs-12"
+          ]
+        },
+        {
+          "game_id": "R1G28",
+          "region": "Midwest",
+          "team1": {
+            "name": "Purdue",
+            "seed": 4
+          },
+          "team2": {
+            "name": "High Point",
+            "seed": 13
+          },
+          "predicted_winner": "Purdue",
+          "confidence": 72,
+          "reasoning": "1. Despite recent struggles, Purdue's statistical profile remains strong (#19 KenPom, 7th offense) and their experience against top competition (4th toughest schedule) gives them a significant edge over High Point's weaker strength of schedule.\n2. While High Point's offense is potent (25th ranked), their defensive vulnerability (227th) will likely be exploited by Purdue's efficient offense led by Kaufman-Renn (19.7 PPG) and their experienced backcourt.\n3. Matt Painter's extensive tournament coaching experience should help Purdue overcome their recent slump, and while this could be close, the significant talent gap between Big Ten and Big South competition should ultimately prove decisive.",
+          "sources": [
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-upset-picks-march-madness-strategy-bracket-advice-predictions/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/purdue-high-point-predictions-picks-ncaa-bracket/82526278007/",
+            "https://www.nytimes.com/athletic/college-basketball/team/purdue-boilermakers-college-basketball/roster/",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_Purdue_Boilermakers_men%27s_basketball_team",
+            "https://www.nytimes.com/athletic/college-basketball/team/purdue-boilermakers-college-basketball/stats/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.cbssports.com/general/news/mens-tournament-13-vs-4-upset-rankings-is-purdue-vulnerable-to-an-early-exit/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-high-point-vs-purdue-odds-picks-and-predictions/",
+            "https://dknetwork.draftkings.com/2025/03/19/high-point-vs-purdue-prediction-pick-for-march-madness-round-of-64/",
+            "https://fansided.com/how-often-does-a-no-13-seed-beat-a-no-4-seed-march-madness-bracket-tips",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-4-vs-13",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R1G29",
+          "region": "Midwest",
+          "team1": {
+            "name": "Illinois",
+            "seed": 6
+          },
+          "team2": {
+            "name": "Texas/Xavier",
+            "seed": 11
+          },
+          "predicted_winner": "Illinois",
+          "confidence": 58,
+          "reasoning": "1. Illinois' superior overall record (21-12) and stronger conference performance in the Big Ten compared to Xavier's mixed season suggests better preparation for high-level competition\n2. While Xavier showed offensive efficiency in their First Four win over Texas, Illinois' size advantage (particularly with 7'1\" Tomislav Ivisic) and more consistent defensive presence should create matchup problems\n3. Brad Underwood's tournament experience and Illinois' fifth straight NCAA appearance provides valuable postseason experience, while Xavier showed vulnerability when trailing this season (7-11 record when behind at halftime) Note: Confidence reduced due to historical upset patterns in 6-11 seed matchups.",
+          "sources": [
+            "https://www.sportingnews.com/us/ncaa-basketball/news/texas-xavier-live-score-highlights-2025-first-four/e6c9fdbea44eebc7409896b3",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-scores-results-first-four-highlights/82526782007/",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.foxsports.com/college-basketball/illinois-fighting-illini-team-schedule",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/356/illinois-fighting-illini",
+            "https://writingillini.com/illinois-basketball/",
+            "https://www.nytimes.com/athletic/6198047/2025/03/19/mens-march-madness-projections-2025-full-ncaa-tournament-bracket-odds/",
+            "https://www.espn.com/mens-college-basketball/game/_/gameId/401745909",
+            "https://www.covers.com/ncaab/march-madness/xavier-vs-texas-predictions-picks-odds-tonight-3-19-2025",
+            "https://www.thelines.com/march-madness-first-four-odds-picks-predictions-xavier-texas-2025/",
+            "https://www.cbssports.com/general/news/texas-vs-xavier-odds-prediction-spread-line-time-2025-first-four-picks-from-proven-model/",
+            "https://www.cbssports.com/general/news/mens-tournament-11-vs-6-upset-rankings-is-missouri-vulnerable-in-the-first-round/",
+            "https://fansided.com/ncaa-tournament-history-11-6-upsets-march-madness",
+            "https://www.thelines.com/odds/march-madness/6-vs-11/"
+          ]
+        },
+        {
+          "game_id": "R1G30",
+          "region": "Midwest",
+          "team1": {
+            "name": "Kentucky",
+            "seed": 3
+          },
+          "team2": {
+            "name": "Troy",
+            "seed": 14
+          },
+          "predicted_winner": "Kentucky",
+          "confidence": 83,
+          "reasoning": "1. Despite Kentucky's recent tournament struggles, their superior offensive firepower and size advantage presents significant matchup problems for Troy, whose poor three-point shooting (30.3%) will make it difficult to keep pace or mount comebacks.\n2. While Troy has momentum from their conference tournament run and creates extra possessions through steals (Tayton Conerway) and offensive rebounds, Kentucky's veteran leadership and deeper rotation should help them handle Troy's pressure defense and control the pace.\n3. The historical 85% win rate for #3 seeds, combined with Kentucky's proven ability to compete with top-ranked teams and Troy's significant jump in competition level (98th in KenPom), suggests Kentucky should advance, though Troy's strong interior scoring and defensive prowess could keep it closer than the -11.5 spread suggests.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-picks-odds-lines-expert-predictions-schedule-for-ncaa-tournament-midwest-region-could-kentucky-make-a-run-172410151.html",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://yellowhammernews.com/troy-looks-to-deal-kentucky-third-upset-loss-in-four-years/",
+            "https://troytrojans.com/news/2025/3/11/basketball-m-troy-earns-berth-in-ncaa-tournament",
+            "https://troytrojans.com/sports/mens-basketball/stats/",
+            "https://bustingbrackets.com/kentucky-vs-troy-men-s-basketball-how-to-watch-odds-injuries-series-history-and-prediction",
+            "https://www.bleachernation.com/picks/2025/03/19/kentucky-vs-troy-prediction-expert-picks-odds-stats-and-best-bets-ncaa-tournament-first-round/",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/kentucky-vs-troy-prediction-odds-preview-march-madness-first-round-march-21-2025/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://www.si.com/college-basketball/every-no-14-seed-to-beat-3-seed-march-madness-history-mens-womens-ncaa-tournament",
+            "https://www.thelines.com/odds/march-madness/3-vs-14/"
+          ]
+        },
+        {
+          "game_id": "R1G31",
+          "region": "Midwest",
+          "team1": {
+            "name": "UCLA",
+            "seed": 7
+          },
+          "team2": {
+            "name": "Utah State",
+            "seed": 10
+          },
+          "predicted_winner": "UCLA",
+          "confidence": 55,
+          "reasoning": "1. UCLA's elite interior defense (holding opponents to 65.7 PPG) will force Utah State away from their preferred offensive rhythm and into more perimeter shots, where they've shown inconsistency\n2. Despite Utah State's higher scoring average (80.9 PPG), UCLA's balanced scoring attack and superior defensive discipline should control the pace of the game\n3. UCLA's experience against high-level competition in their conference, combined with Coach Cronin's tournament experience, gives them an edge in a pressure situation where defensive execution will be crucial Note: Confidence reduced due to historical upset patterns in 7-10 seed matchups.",
+          "sources": [
+            "https://www.si.com/betting/utah-state-vs-ucla-prediction-odds-key-players-to-watch-for-ncaa-tournament-first-round-01jpjwmmn7rp",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.espn.com/mens-college-basketball/preview/_/gameId/401745983",
+            "https://www.espn.co.uk/mens-college-basketball/team/roster/_/id/26",
+            "https://www.espn.com/mens-college-basketball/team/schedule/_/id/26/ucla-bruins",
+            "https://gojoebruin.com/ucla-basketball/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.cachevalleydaily.com/sports/in-depth-look-at-the-usu-mens-basketball-incoming-freshmen-for-2025/article_bfb8c82a-a2d3-11ef-9f84-1368fbb3fe26.html",
+            "https://www.actionnetwork.com/ncaab/ucla-vs-utah-state-spread-prediction-71-model-pick-for-ncaa-tournament-pro",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-utah-state-vs-ucla-odds-picks-and-predictions/",
+            "https://www.oddsshark.com/ncaab/march-madness/seeds-7-vs-10",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025"
+          ]
+        },
+        {
+          "game_id": "R1G32",
+          "region": "Midwest",
+          "team1": {
+            "name": "Tennessee",
+            "seed": 2
+          },
+          "team2": {
+            "name": "Wofford",
+            "seed": 15
+          },
+          "predicted_winner": "Tennessee",
+          "confidence": 99,
+          "reasoning": "1. The matchup heavily favors Tennessee, particularly their nation-best perimeter defense (27.8% opponent 3PT%) against Wofford's three-point dependent offense (47.7% of shots from 3PT).\n2. Tennessee's significant advantages in both talent and depth are reflected in key statistics, with multiple players averaging double figures and Zakai Zeigler's elite playmaking (7.3 APG, 5th nationally).\n3. The location at Rupp Arena provides a virtual home court advantage for Tennessee, and their recent Elite Eight experience combined with Rick Barnes' tournament coaching experience gives them a significant edge over a less-experienced Wofford team. Note: Confidence increased due to historical reliability of 2-15 seed matchups.",
+          "sources": [
+            "https://www.rockytopinsider.com/2025/03/19/tennessee-vs-wofford-ncaa-tournament-how-to-watch-betting-odds-key-stats-and-info/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://woffordterriers.com/news/2025/3/19/mens-basketball-mens-basketball-prepares-for-no-2-tennessee-in-lexington.aspx",
+            "https://www.nytimes.com/athletic/college-basketball/team/tennessee-volunteers-college-basketball/roster/",
+            "https://basketball.realgm.com/ncaa/conferences/Southeastern-Conference/8/Tennessee/263/Rosters/2024",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/2633/tennessee-volunteers",
+            "https://www.yahoo.com/news/wofford-coach-dwight-perry-said-174659804.html",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-15-seed-breakdowns-bryant-omaha-robert-morris-wofford",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-wofford-vs-tennessee-odds-picks-and-predictions/",
+            "https://www.si.com/betting/wofford-vs-tennessee-prediction-odds-key-players-to-watch-ncaa-tournament-first-round",
+            "https://sports.yahoo.com/article/tennessee-basketball-vs-wofford-prediction-201442639.html",
+            "https://www.bleachernation.com/college-basketball/2025/03/18/15-vs-2-history/",
+            "https://www.sportingnews.com/us/ncaa-basketball/news/march-madness-15-seed-upsets-history/5e872uc9mflp1irm12ehdel4l",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025"
+          ]
+        }
+      ]
+    },
+    {
+      "round_name": "Second Round",
+      "round_number": 2,
+      "games": [
+        {
+          "game_id": "R2G1",
+          "region": "South",
+          "team1": {
+            "name": "Auburn",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Louisville",
+            "seed": 8
+          },
+          "predicted_winner": "Auburn",
+          "confidence": 70,
+          "reasoning": "1. Despite Auburn's recent struggles (losing 3 of last 4), their overall body of work is exceptional, including 19 wins against at-large-quality teams and victories over multiple top programs. Their statistical profile (+36.12 AdjEM) suggests they're part of one of the strongest #1 seed groups in tournament history.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6207050/2025/03/17/south-region-ncaa-tournament-analysis/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://sportsbookwire.usatoday.com/2025/03/19/march-madness-creighton-vs-louisville-odds-picks-and-predictions/",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://www.cbssports.com/general/news/ncaa-bracket-predictions-model-makes-surprising-march-madness-2025-tournament-picks/",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R2G2",
+          "region": "South",
+          "team1": {
+            "name": "Michigan",
+            "seed": 5
+          },
+          "team2": {
+            "name": "Texas A&M",
+            "seed": 4
+          },
+          "predicted_winner": "Michigan",
+          "confidence": 50,
+          "reasoning": "1. Michigan's elite defensive rebounding (#8 nationally) should neutralize Texas A&M's primary strength of offensive rebounding (#1), effectively eliminating A&M's key advantage of second-chance points.\n2. Michigan's superior interior presence and size advantage matches up particularly well against A&M's poor shooting efficiency (293rd in 2-point shooting, 317th in 3-point shooting), forcing A&M to rely on a strength (offensive rebounds) that Michigan is uniquely positioned to counter.\n3. Michigan's strong performance against mid-tier competition (7-0 vs teams ranked 80-180) and demonstrated ability to control games through interior dominance aligns well against A&M's vulnerabilities, while expert consensus and betting markets also favor Michigan (-2.5). Note: Confidence reduced due to historical upset patterns in 5-4 seed matchups.",
+          "sources": [
+            "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2025/03/18/texas-aggies-basketball-yale-basketball-march-madness-upset-picks-ncaa-tournament/82525895007/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2025/03/18/texas-aggies-basketball-march-madness-2025-bracket-ncaa-tournament-cbs-sports/82520681007/",
+            "https://247sports.com/college/texas-am/longformarticle/texas-a-m-basketball-aggies-ncaa-tournament-yale-bulldogs-michigan-wolverines-uc-san-diego-tritons-247199922/",
+            "https://www.cbssports.com/college-basketball/news/2025-march-madness-predictions-ncaa-bracket-expert-picks-against-the-spread-odds-in-thursdays-round-1-games/",
+            "https://www.cbssports.com/general/news/ncaa-bracket-predictions-model-dishes-out-surprising-march-madness-2025-tournament-picks/",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://www.forbes.com/sites/giovannimalloy/2025/03/19/upset-alert-the-seeds-most-likely-to-break-your-march-madness-bracket/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R2G3",
+          "region": "South",
+          "team1": {
+            "name": "Ole Miss",
+            "seed": 6
+          },
+          "team2": {
+            "name": "Iowa State",
+            "seed": 3
+          },
+          "predicted_winner": "Iowa State",
+          "confidence": 55,
+          "reasoning": "1. Iowa State's strong defensive identity and ability to force turnovers matches up well against Ole Miss, particularly if key guards Lipsey and Gilbert are healthy. Their experience against top-tier Big 12 competition provides better preparation for tournament play. Note: Confidence reduced due to historical upset patterns in 6-3 seed matchups.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.newsweek.com/sports/ncaa/top-5-teams-likely-get-upset-first-two-rounds-2025-ncaa-tournament-2047570",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://www.redcuprebellion.com/2025/3/17/24387473/march-madness-2025-analyzing-the-path-for-ole-miss-rebels-mens-basketball",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.desmoinesregister.com/story/sports/college/iowa-state/basketball-mens/2025/03/14/iowa-state-basketball-byu-takeaways-analysis-big-12-tournament-cyclones-cougars/82366485007/",
+            "https://www.natesilver.net/p/2025-march-madness-ncaa-tournament-predictions",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-02-05/records-every-seed-march-madness-1985-2024"
+          ]
+        },
+        {
+          "game_id": "R2G4",
+          "region": "South",
+          "team1": {
+            "name": "Marquette",
+            "seed": 7
+          },
+          "team2": {
+            "name": "Michigan State",
+            "seed": 2
+          },
+          "predicted_winner": "Michigan State",
+          "confidence": 80,
+          "reasoning": "1. Michigan State has a significant advantage with Tom Izzo's tournament experience and historically strong March performance, while Marquette's vulnerability to high turnover rates (above 18%) could be exploited by MSU's defensive pressure.\n2. The historical data for 2025's #2 seeds shows them to be particularly strong (second-strongest batch in recent history), and the gap between #2 and #7 seeds this year is significant enough to favor MSU.\n3. Marquette's rebounding weakness and reliance on Kam Jones for scoring makes them more vulnerable against a well-rounded Michigan State team that typically features strong interior play and balanced scoring.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://www.pennlive.com/sports/2025/03/2025-ncaa-tournament-bracket-south-region-march-madness-preview-picks.html",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://msuspartans.com/sports/2018/7/20/sports-m-baskbl-archive-msu-m-baskbl-archive-html.aspx",
+            "https://www.nytimes.com/athletic/college-basketball/team/michigan-state-spartans-college-basketball/roster/",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_Michigan_State_Spartans_women%27s_basketball_team",
+            "https://www.natesilver.net/p/2025-march-madness-ncaa-tournament-predictions",
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-upset-picks-march-madness-strategy-bracket-advice-predictions/",
+            "https://www.cbssports.com/college-basketball/news/2025-march-madness-upset-predictions-expert-picks-for-ncaa-tournament-bracket-busters-to-help-win-your-pool/",
+            "https://www.docsports.com/current/ncaa-tournament-seed-history.html",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R2G5",
+          "region": "West",
+          "team1": {
+            "name": "Florida",
+            "seed": 1
+          },
+          "team2": {
+            "name": "UConn",
+            "seed": 8
+          },
+          "predicted_winner": "UConn",
+          "confidence": 70,
+          "reasoning": "1. UConn's recent tournament success (2024 champions) and proven ability to perform under pressure gives them a significant edge, despite being the lower seed. Their tournament experience and coaching stability under Dan Hurley is particularly valuable in high-stakes games.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-bracket-picks-upsets-fade-these-top-seeded-teams-to-help-your-ncaa-tournament-pool-odds-152952796.html",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.gainesville.com/story/sports/college/basketball/2025/03/18/teams-that-could-cause-florida-basketball-problems-in-march-madness/82377751007/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.reddit.com/r/CollegeBasketball/comments/1jd49r4/oc_2025_ncaa_tournament_seven_pretournament_stats/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-upset-picks-march-madness-strategy-bracket-advice-predictions/",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.foxsports.com/stories/college-basketball/2025-mens-march-madness-odds",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R2G6",
+          "region": "West",
+          "team1": {
+            "name": "Colorado State",
+            "seed": 12
+          },
+          "team2": {
+            "name": "Maryland",
+            "seed": 4
+          },
+          "predicted_winner": "Maryland",
+          "confidence": 72,
+          "reasoning": "1. Maryland's superior defensive efficiency (ranked 6th nationally) and balanced scoring attack (five players averaging double figures) gives them a significant advantage over Colorado State's more limited offensive approach.\n2. The Queen/Reese frontcourt duo presents a major matchup problem for Colorado State, who struggles with offensive rebounding (ranked 279th).\n3. While Colorado State has momentum, Maryland's statistical profile is historically strong for a #4 seed in 2025 (top-12 KenPom rating), and the gap between 4 and 12 seeds is particularly pronounced this year.",
+          "sources": [
+            "https://sports.yahoo.com/college-basketball/live/2025-march-madness-updates-ncaa-tournament-watch-times-bracket-news-selection-sunday-analysis-snubs-120018857.html",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.nytimes.com/athletic/6209974/2025/03/17/march-madness-upsets-west-region-mens-ncaa-tournament/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://vsin.com/college-basketball/no-5-memphis-vs-no-12-colorado-state-ncaa-tournament-west-region-march-madness-preview-and-prediction/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.testudotimes.com/2025/3/19/24388959/how-maryland-mens-basketball-compares-to-the-programs-best-ncaa-tournament-teams-of-the-past",
+            "https://www.natesilver.net/p/2025-march-madness-ncaa-tournament-predictions",
+            "https://www.vegasinsider.com/college-basketball/march-madness-odds-2025/",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R2G7",
+          "region": "West",
+          "team1": {
+            "name": "Drake",
+            "seed": 11
+          },
+          "team2": {
+            "name": "Texas Tech",
+            "seed": 3
+          },
+          "predicted_winner": "Texas Tech",
+          "confidence": 76,
+          "reasoning": "1. Texas Tech's superior offensive efficiency (80.9 PPG vs Drake's 70.1 PPG) and balanced scoring attack matches up well against Drake's methodical style, while their strong guard play can handle Drake's defensive pressure.\n2. Texas Tech's experience against elite competition in the Big 12 (including wins over ranked teams like Houston) provides better preparation than Drake's schedule, and their frontcourt size advantage should exploit Drake's interior defense vulnerability.\n3. While Drake has shown upset potential, Texas Tech's statistical profile as one of the historically strongest #3 seeds (+26.44 AdjEM) and their depth of scoring options give them multiple ways to control this game.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://godrakebulldogs.com/news/2025/3/19/mens-basketball-preview-ncaa-first-second-rounds.aspx",
+            "https://www.2adays.com/blog/college-athletics-news-march-madness-2025-top-contenders-predictions-final-four-favorites/",
+            "https://vsin.com/college-basketball/no-6-missouri-vs-no-11-drake-ncaa-tournament-west-region-march-madness-preview-and-prediction/",
+            "https://godrakebulldogs.com/sports/mens-basketball/stats/2024-25?path=mbball",
+            "https://www.sofascore.com/team/basketball/texas-tech-red-raiders/86812",
+            "https://www.espn.com/mens-college-basketball/team/_/id/2641/texas-tech-red-raiders",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/2641/texas-tech-red-raiders",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://sports.yahoo.com/college-basketball/article/2025-march-madness-picks-odds-lines-expert-predictions-schedule-seeds-for-every-ncaa-tournament-mens-1st-round-game-183125277.html",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-02-05/records-every-seed-march-madness-1985-2024"
+          ]
+        },
+        {
+          "game_id": "R2G8",
+          "region": "West",
+          "team1": {
+            "name": "Kansas",
+            "seed": 7
+          },
+          "team2": {
+            "name": "St. John's",
+            "seed": 2
+          },
+          "predicted_winner": "St. John's",
+          "confidence": 80,
+          "reasoning": "1. St. John's elite defensive pressure (17.9 points off turnovers per game) matches up particularly well against Kansas's inconsistent guard play this season, and their defensive system under Rick Pitino should effectively disrupt Kansas's offensive flow. Note: Confidence increased due to historical reliability of 7-2 seed matchups.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://nypost.com/2025/03/19/sports/st-johns-is-ready-for-the-march-madness-2025-pressure/",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://collegefootballnetwork.com/mens-college-basketball/march-madness-why-kansas-good-draw-2025-ncaa-tournament/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.gainesville.com/story/sports/college/basketball/2025/03/18/teams-that-could-cause-florida-basketball-problems-in-march-madness/82377751007/",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-2-seed-breakdowns-alabama-michigan-state-tennessee-st-johns",
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-bracket-upset-picks-march-madness-strategy-advice-predictions/",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://www.forbes.com/sites/giovannimalloy/2025/03/19/upset-alert-the-seeds-most-likely-to-break-your-march-madness-bracket/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R2G9",
+          "region": "East",
+          "team1": {
+            "name": "Duke",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Baylor",
+            "seed": 9
+          },
+          "predicted_winner": "Duke",
+          "confidence": 90,
+          "reasoning": "1. Duke's exceptional statistical profile (31-3 record, #1 offensive rating, #4 defensive rating) combined with the home-state advantage in Raleigh creates a significant edge over Baylor's modest 19-14 record.\n2. The historical data for #1 vs #9 matchups in 2025-like tournaments (with strong #1 seeds) heavily favors the top seed, and Duke's +30.35 SRS rating suggests they're an particularly strong #1 seed.\n3. Duke's superior size (multiple 6'9\"+ players) and balanced performance metrics (top-15 in both scoring offense and defense) provide matchup advantages that Baylor's limited available statistics don't suggest they can overcome.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.fayobserver.com/story/sports/college/acc/2025/03/19/duke-basketball-mount-st-marys-march-madness-first-round-bracket/82504294007/",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.sports-reference.com/cbb/schools/duke/men/2025-schedule.html",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/150/duke-blue-devils",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_Duke_Blue_Devils_men%27s_basketball_team",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://big12sports.com/boxscore.aspx?id=7ltyipP022aUJKmSgYVs3wXi7up73ghniwD5ElWyd07J7BNseBaMQePf0fY%2F3yUPVtQAZZ1dFsAnl%2BENICpO2OS8clKApCCiyWNQ72WrPAzHl3qUDXFDGyjU80mlPko3mmF6ZIcSjaN%2FRzrbUSuKTSqVuNbpY4kOSincpAWdr1M%3D&path=mbball",
+            "https://www.covers.com/ncaab/march-madness/odds",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025"
+          ]
+        },
+        {
+          "game_id": "R2G10",
+          "region": "East",
+          "team1": {
+            "name": "Liberty",
+            "seed": 12
+          },
+          "team2": {
+            "name": "Arizona",
+            "seed": 4
+          },
+          "predicted_winner": "Arizona",
+          "confidence": 80,
+          "reasoning": "1. Arizona's superior schedule strength (4th toughest in country) and 10 Quad 1 victories provide better preparation for tournament play compared to Liberty's less challenging schedule. Their wins against elite teams like Kansas and Texas Tech demonstrate ability to compete at the highest level. Note: Confidence increased due to historical reliability of 12-4 seed matchups.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.si.com/college/arizona/basketball/arizona-in-the-final-four-experts-make-surprising-march-madness-picks-01jpqv31rj56",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.si.com/college/arizona/basketball/arizona-ranked-among-best-teams-in-2025-ncaa-tournament-bracket-01jpjpewazgz",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/college-basketball/game/kennesaw-state-owls-vs-liberty-flames/Mdlpg0jvMmmtsEA8/",
+            "https://www.azdesertswarm.com/basketball/2025/3/17/24387593/arizona-wildcats-mens-basketball-ncaa-tournament-analysis-performance-akron-zips-2025",
+            "https://collegefootballnews.com/college-basketball/ncaa-tournament-4-seed-breakdowns-arizona-maryland-purdue-texas-am",
+            "https://www.azcentral.com/story/sports/college/ua/2025/03/19/march-madness-picks-predictions-big-12-final-four-arizona-champion/82555702007/",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R2G11",
+          "region": "East",
+          "team1": {
+            "name": "BYU",
+            "seed": 6
+          },
+          "team2": {
+            "name": "Wisconsin",
+            "seed": 3
+          },
+          "predicted_winner": "Wisconsin",
+          "confidence": 55,
+          "reasoning": "1. Wisconsin's balanced strength (top-15 offense, #27 defense) gives them a significant edge over BYU's more one-dimensional offensive approach. Their ability to match up against offensive-oriented teams like BYU has been proven throughout the season. Note: Confidence reduced due to historical upset patterns in 6-3 seed matchups.",
+          "sources": [
+            "http://www.aroundthecorn.com/ncaab/2025-ncaa-tournament-preview-east-region/",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-bracket-picks-upsets-fade-these-top-seeded-teams-to-help-your-ncaa-tournament-pool-odds-152952796.html",
+            "https://www.deseret.com/sports/2025/03/19/breaking-down-byu-vcu-ncaa-tournament-game/",
+            "https://wtop.com/ncaa-basketball/2025/03/byu-defies-low-expectations-and-overcomes-slow-start-to-become-a-team-to-watch-in-march-madness/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://badgerswire.usatoday.com/story/sports/college/badgers/mens-basketball/2025/03/19/wisconsin-ncaa-tournament-bracket-predictions/82528342007/",
+            "https://www.buckys5thquarter.com/2025/3/17/24388084/why-wisconsin-badgers-are-national-title-contenders-2025-ncaa-tournament-greg-gard",
+            "https://badgerswire.usatoday.com/story/sports/college/badgers/mens-basketball/2025/03/19/wisconsin-march-madness-prediction-dick-vitale-bracket/82551409007/",
+            "https://www.buckys5thquarter.com/2025/3/19/24389509/wisconsin-badgers-how-far-will-wisconsin-get-in-march-madness-final-four-ncaa-tournament-greg-gard",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025"
+          ]
+        },
+        {
+          "game_id": "R2G12",
+          "region": "East",
+          "team1": {
+            "name": "Saint Mary's",
+            "seed": 7
+          },
+          "team2": {
+            "name": "Alabama",
+            "seed": 2
+          },
+          "predicted_winner": "Alabama",
+          "confidence": 76,
+          "reasoning": "1. Alabama's high-powered offense and excellent 3-point shooting presents a significant challenge for Saint Mary's, whose perimeter defense isn't their strongest asset. The pace and volume of Alabama's offensive attack could overwhelm Saint Mary's more methodical style. Note: Confidence increased due to historical reliability of 7-2 seed matchups.",
+          "sources": [
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-scores-results-first-four-highlights/82526782007/",
+            "https://www.youtube.com/watch?v=eI0OyJQoeGY",
+            "https://www.si.com/college/arizona/basketball/arizona-ranked-among-best-teams-in-2025-ncaa-tournament-bracket-01jpjpewazgz",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/college-basketball/team/saint-mary-s-gaels-college-basketball/stats/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-upset-picks-march-madness-strategy-bracket-advice-predictions/",
+            "https://www.cbssports.com/general/news/march-madness-2025-bracket-ncaa-tournament-picks-predictions-by-top-rated-college-basketball-model/",
+            "https://www.natesilver.net/p/2025-march-madness-ncaa-tournament-predictions",
+            "https://www.docsports.com/current/ncaa-tournament-seed-history.html",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R2G13",
+          "region": "Midwest",
+          "team1": {
+            "name": "Houston",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Gonzaga",
+            "seed": 8
+          },
+          "predicted_winner": "Houston",
+          "confidence": 70,
+          "reasoning": "1. Houston's elite defense (2nd best in country) and balanced offensive attack should help neutralize Gonzaga's offensive efficiency, particularly given Houston's ability to force scoring droughts, which is already a weakness for Gonzaga.\n2. While Gonzaga is underseeded as a #8, Houston's dominance in the much tougher Big 12 conference (both regular season and tournament champions) provides better preparation for tournament play than Gonzaga's WCC competition.\n3. Even with J'Wan Roberts potentially not at 100%, Houston's deeper roster and multiple scoring options (led by LJ Cryer) give them more ways to win compared to Gonzaga's reliance on Ryan Nembhard and Graham Ike.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.dukechronicle.com/article/2025/03/duke-mens-basketball-ncaa-tournament-region-preview-midwest-houston-tennessee-kentucky-purdue-gonzaga",
+            "https://bleacherreport.com/houston-cougars-basketball",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_New_Mexico_Lobos_men%27s_basketball_team",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/248/houston-cougars",
+            "https://www.covers.com/ncaab/march-madness/georgia-vs-gonzaga-predictions-picks-odds-thursday-3-20-2025",
+            "https://www.inlander.com/culture/a-look-at-the-stats-that-have-defined-gonzagas-2024-25-season325132-10929-324122-90-12194-29549392",
+            "https://www.cbssports.com/college-basketball/news/2025-ncaa-tournament-bracket-predictions-picks-scouting-reports-for-all-first-round-games-and-upsets-too/",
+            "https://www.natesilver.net/p/2025-march-madness-ncaa-tournament-predictions",
+            "https://www.outkick.com/sports/2025-ncaa-tournament-breakdown-midwest-region-best-bets-sleepers-busts",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R2G14",
+          "region": "Midwest",
+          "team1": {
+            "name": "Clemson",
+            "seed": 5
+          },
+          "team2": {
+            "name": "Purdue",
+            "seed": 4
+          },
+          "predicted_winner": "Purdue",
+          "confidence": 50,
+          "reasoning": "1. Purdue has significant advantages in this matchup, particularly with their balanced scoring attack led by Kaufman-Renn's efficient shooting (61.2% FG) and Smith's playmaking (8.8 APG). While they've lost Zach Edey, their transition to a more perimeter-oriented offense actually matches up well against Clemson's defensive scheme. Note: Confidence reduced due to historical upset patterns in 5-4 seed matchups.",
+          "sources": [
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-upset-picks-march-madness-strategy-bracket-advice-predictions/",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.ncaa.com/video/basketball-men/2025-03-19/team-confidential-clemson-grit-has-tigers-back-ncaa-tournament",
+            "https://www.reddit.com/r/CollegeBasketball/comments/1jd49r4/oc_2025_ncaa_tournament_seven_pretournament_stats/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/college-basketball/team/clemson-tigers-college-basketball/stats/",
+            "https://www.nytimes.com/athletic/college-basketball/team/purdue-boilermakers-college-basketball/roster/",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_Purdue_Boilermakers_men%27s_basketball_team",
+            "https://www.nytimes.com/athletic/college-basketball/team/purdue-boilermakers-college-basketball/stats/",
+            "https://www.covers.com/ncaab/march-madness/first-round-odds-thursday-3-19-2025",
+            "https://www.cbssports.com/general/news/march-madness-2025-bracket-ncaa-tournament-picks-predictions-by-top-college-basketball-model/",
+            "https://www.forbes.com/sites/giovannimalloy/2025/03/19/upset-alert-the-seeds-most-likely-to-break-your-march-madness-bracket/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R2G15",
+          "region": "Midwest",
+          "team1": {
+            "name": "Illinois",
+            "seed": 6
+          },
+          "team2": {
+            "name": "Kentucky",
+            "seed": 3
+          },
+          "predicted_winner": "Kentucky",
+          "confidence": 55,
+          "reasoning": "1. Kentucky's superior size and versatility across all positions presents a significant matchup advantage, particularly with their 7'0\" and 6'11\" frontcourt players against Illinois' defensive vulnerabilities in protecting the paint\n2. Kentucky's deep roster of experienced transfers and freshmen talent provides multiple scoring options, which can exploit Illinois' defensive inconsistencies that were evident in their regular season performance\n3. While the historical #3 vs #6 matchup data shows potential for upsets, Kentucky's specific advantages align with Illinois' documented weaknesses, particularly in points off turnovers and interior defense, making Kentucky the more likely victor in this particular matchup",
+          "sources": [
+            "https://sports.yahoo.com/college-basketball/live/2025-march-madness-updates-ncaa-tournament-watch-times-bracket-news-selection-sunday-analysis-snubs-120018857.html",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://fightingillini.com/sports/mens-basketball/stats/2024-25/maryland/boxscore/26303",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/96/kentucky-wildcats",
+            "https://kykernel.com/97013/sports/get-to-know-2023-24-kentucky-mens-basketball-team/",
+            "https://www.youtube.com/watch?v=U4UibrGLz4A",
+            "https://www.natesilver.net/p/2025-march-madness-ncaa-tournament-predictions",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-picks-predictions-odds-lines-schedule-for-first-four-with-an-underachieving-texas-team-145954789.html",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R2G16",
+          "region": "Midwest",
+          "team1": {
+            "name": "UCLA",
+            "seed": 7
+          },
+          "team2": {
+            "name": "Tennessee",
+            "seed": 2
+          },
+          "predicted_winner": "Tennessee",
+          "confidence": 83,
+          "reasoning": "1. Tennessee's superior defensive efficiency and ability to control the paint presents a significant challenge for UCLA's offense, which has shown inconsistency against top competition. The Volunteers' defensive prowess (particularly their strong turnover creation rate) should effectively disrupt UCLA's balanced scoring attack. Note: Confidence increased due to historical reliability of 7-2 seed matchups.",
+          "sources": [
+            "https://sports.yahoo.com/college-basketball/live/2025-march-madness-updates-ncaa-tournament-watch-times-bracket-news-selection-sunday-analysis-snubs-120018857.html",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://www.espn.co.uk/mens-college-basketball/team/roster/_/id/26",
+            "https://www.espn.com/mens-college-basketball/team/schedule/_/id/26/ucla-bruins",
+            "https://gojoebruin.com/ucla-basketball/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.espn.com/espn/betting/story/_/id/44281526/womens-march-madness-ncaa-tournament-opening-round-betting-lines-spread-odds",
+            "https://www.docsports.com/current/ncaa-tournament-seed-history.html",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        }
+      ]
+    },
+    {
+      "round_name": "Sweet 16",
+      "round_number": 3,
+      "games": [
+        {
+          "game_id": "R3G1",
+          "region": "South",
+          "team1": {
+            "name": "Auburn",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Michigan",
+            "seed": 5
+          },
+          "predicted_winner": "Auburn",
+          "confidence": 60,
+          "reasoning": "1. Auburn's superior overall body of work (wins over 19 at-large quality teams) and SEC Player of the Year Johni Broome's inside presence should neutralize Michigan's primary strength of defensive rebounding\n2. While Auburn showed late-season struggles, their home region advantage playing in Atlanta provides a significant boost, and their deep 10-man rotation should help them overcome Michigan's size advantage\n3. Michigan's poor 3-point shooting (30.8%, ranks 327th nationally) will be particularly problematic against Auburn's strong perimeter defense, making it difficult for them to keep pace with Auburn's more balanced offensive attack Note: Confidence reduced due to historical upset patterns in 1-5 seed matchups.",
+          "sources": [
+            "https://www.cbssports.com/general/news/ncaa-basketball-tournament-2025-surprising-upset-picks-march-madness-strategy-bracket-advice-predictions/",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6207050/2025/03/17/south-region-ncaa-tournament-analysis/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://www.cbssports.com/general/news/march-madness-2025-bracket-ncaa-tournament-picks-predictions-by-top-rated-college-basketball-model/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R3G2",
+          "region": "South",
+          "team1": {
+            "name": "Iowa State",
+            "seed": 3
+          },
+          "team2": {
+            "name": "Michigan State",
+            "seed": 2
+          },
+          "predicted_winner": "Michigan State",
+          "confidence": 50,
+          "reasoning": "1. Iowa State's significant guard depth issues and injuries (particularly Keshon Gilbert's absence) will be especially problematic against Michigan State's experienced backcourt, limiting their normally strong defensive capabilities.\n2. While both teams are historically strong for their seed lines in 2025, Michigan State has stronger expert consensus support (24/24 experts favoring them in earlier rounds) and slightly better efficiency margins.\n3. The neutral Atlanta venue doesn't advantage either team, but Michigan State's deeper roster and ability to exploit Iowa State's guard limitations gives them a slight edge in what projects to be a close game.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.widerightnattylite.com/2025/3/19/24389070/the-dpi-2025",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://msuspartans.com/sports/2018/7/20/sports-m-baskbl-archive-msu-m-baskbl-archive-html.aspx",
+            "https://www.nytimes.com/athletic/college-basketball/team/michigan-state-spartans-college-basketball/roster/",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_Michigan_State_Spartans_women%27s_basketball_team",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-expert-picks-predictions-schedule-odds-betting-lines-for-ncaa-tournament-south-region-michigan-trying-to-avoid-5-vs-12-upset-145913582.html",
+            "https://www.natesilver.net/p/2025-march-madness-ncaa-tournament-predictions",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.forbes.com/sites/giovannimalloy/2025/03/19/upset-alert-the-seeds-most-likely-to-break-your-march-madness-bracket/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R3G3",
+          "region": "West",
+          "team1": {
+            "name": "UConn",
+            "seed": 8
+          },
+          "team2": {
+            "name": "Maryland",
+            "seed": 4
+          },
+          "predicted_winner": "Maryland",
+          "confidence": 60,
+          "reasoning": "1. Maryland's elite defensive efficiency (6th nationally) and balanced scoring attack (five double-digit scorers) matches up well against any opponent, while their strong frontcourt duo of Queen and Reese should provide a significant advantage in this matchup. Note: Confidence reduced due to historical upset patterns in 8-4 seed matchups.",
+          "sources": [
+            "https://sports.yahoo.com/college-basketball/live/2025-march-madness-updates-ncaa-tournament-watch-times-bracket-news-selection-sunday-analysis-snubs-120018857.html",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.reddit.com/r/CollegeBasketball/comments/1jd49r4/oc_2025_ncaa_tournament_seven_pretournament_stats/",
+            "https://www.testudotimes.com/2025/3/19/24388959/how-maryland-mens-basketball-compares-to-the-programs-best-ncaa-tournament-teams-of-the-past",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.foxsports.com/stories/college-basketball/2025-mens-march-madness-odds",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R3G4",
+          "region": "West",
+          "team1": {
+            "name": "Texas Tech",
+            "seed": 3
+          },
+          "team2": {
+            "name": "St. John's",
+            "seed": 2
+          },
+          "predicted_winner": "Texas Tech",
+          "confidence": 50,
+          "reasoning": "1. Texas Tech's balanced offensive attack (80.9 PPG, 16.6 APG) gives them multiple scoring options against St. John's elite defense, while St. John's poor 3-point shooting (30.4%) limits their ability to keep pace\n2. Texas Tech's experience in the highly competitive Big 12 conference (with quality wins against Houston and Arizona) better prepares them for tournament pressure compared to St. John's schedule\n3. While St. John's has the defensive edge, Texas Tech's proven ability to adapt to different game styles and superior offensive efficiency should be enough to overcome St. John's defensive strength in a close game Note: Confidence reduced due to historical upset patterns in 3-2 seed matchups.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://www.sofascore.com/team/basketball/texas-tech-red-raiders/86812",
+            "https://www.espn.com/mens-college-basketball/team/_/id/2641/texas-tech-red-raiders",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/2641/texas-tech-red-raiders",
+            "https://www.cbssports.com/college-basketball/news/rick-pitino-st-johns-zoom-in-on-opener-15-seed-omaha/",
+            "https://www.reddit.com/r/CollegeBasketball/comments/1jd49r4/oc_2025_ncaa_tournament_seven_pretournament_stats/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.cbssports.com/college-basketball/news/2025-march-madness-upset-predictions-expert-picks-for-ncaa-tournament-bracket-busters-to-help-win-your-pool/",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.cbssports.com/general/news/ncaa-tournament-2025-bracket-proven-simulation-predicts-surprising-upsets-march-madness-picks-best-sleepers/",
+            "https://www.forbes.com/sites/giovannimalloy/2025/03/19/upset-alert-the-seeds-most-likely-to-break-your-march-madness-bracket/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        },
+        {
+          "game_id": "R3G5",
+          "region": "East",
+          "team1": {
+            "name": "Duke",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Arizona",
+            "seed": 4
+          },
+          "predicted_winner": "Duke",
+          "confidence": 65,
+          "reasoning": "1. Duke's exceptional season metrics (31-3 record, #1 rankings in both offensive and defensive efficiency) significantly outweigh Arizona's inconsistent performance (5-6 in their last 11 games). Cooper Flagg's presence as an elite two-way player gives Duke a clear advantage in the key matchup. Note: Confidence reduced due to historical upset patterns in 1-4 seed matchups.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.usatoday.com/story/sports/ncaab/2025/03/19/march-madness-bracket-ai-picks-predictions/82520443007/",
+            "https://www.sports-reference.com/cbb/schools/duke/men/2025-schedule.html",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/150/duke-blue-devils",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_Duke_Blue_Devils_men%27s_basketball_team",
+            "https://www.si.com/college/arizona/basketball/arizona-ranked-among-best-teams-in-2025-ncaa-tournament-bracket-01jpjpewazgz",
+            "https://www.azdesertswarm.com/basketball/2025/3/17/24387593/arizona-wildcats-mens-basketball-ncaa-tournament-analysis-performance-akron-zips-2025",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.covers.com/ncaab/march-madness/odds",
+            "https://www.fayobserver.com/story/sports/college/acc/2025/03/18/final-four-predictions-ncaa-bracket-picks/82473425007/",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R3G6",
+          "region": "East",
+          "team1": {
+            "name": "Wisconsin",
+            "seed": 3
+          },
+          "team2": {
+            "name": "Alabama",
+            "seed": 2
+          },
+          "predicted_winner": "Alabama",
+          "confidence": 50,
+          "reasoning": "1. Alabama's elite efficiency on both ends of the floor and deeper 10-man rotation gives them a significant advantage over Wisconsin's more limited roster depth. Johni Broome's dominance (18.6 PPG, 10.6 RPG) presents a matchup problem that Wisconsin's frontcourt may struggle to contain. Note: Confidence reduced due to historical upset patterns in 3-2 seed matchups.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-bracket-picks-upsets-fade-these-top-seeded-teams-to-help-your-ncaa-tournament-pool-odds-152952796.html",
+            "https://www.cbssports.com/general/news/march-madness-2025-bracket-ncaa-tournament-picks-predictions-by-top-tier-college-basketball-model/",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://badgerswire.usatoday.com/story/sports/college/badgers/mens-basketball/2025/03/19/wisconsin-ncaa-tournament-bracket-predictions/82528342007/",
+            "https://www.buckys5thquarter.com/2025/3/17/24388084/why-wisconsin-badgers-are-national-title-contenders-2025-ncaa-tournament-greg-gard",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://www.cbssports.com/college-basketball/news/2025-march-madness-predictions-ncaa-bracket-expert-picks-against-the-spread-odds-in-thursdays-round-1-games/",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-betting-lines-odds-which-low-seeds-have-the-best-chances-of-pulling-a-huge-1st-round-upset-234649784.html",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament",
+            "https://www.betfirm.com/seeds-national-championship-odds/"
+          ]
+        },
+        {
+          "game_id": "R3G7",
+          "region": "Midwest",
+          "team1": {
+            "name": "Houston",
+            "seed": 1
+          },
+          "team2": {
+            "name": "Purdue",
+            "seed": 4
+          },
+          "predicted_winner": "Houston",
+          "confidence": 65,
+          "reasoning": "1. Houston's elite defense (2nd best nationally) and experienced backcourt led by L.J. Cryer should effectively counter Purdue's balanced scoring attack, especially given Purdue's documented turnover issues.\n2. Houston's superior overall record (30-4 vs 22-11) and recent momentum (winning both Big 12 regular season and tournament) suggest better form, while Purdue has shown defensive vulnerability late in the season.\n3. The loss of Zach Edey significantly weakens Purdue's interior presence compared to last year, while Houston's deep roster and battle-tested experience in the competitive Big 12 gives them multiple ways to win. Note: Confidence reduced due to historical upset patterns in 1-4 seed matchups.",
+          "sources": [
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://www.dukechronicle.com/article/2025/03/duke-mens-basketball-ncaa-tournament-region-preview-midwest-houston-tennessee-kentucky-purdue-gonzaga",
+            "https://www.outkick.com/sports/2025-ncaa-tournament-breakdown-midwest-region-best-bets-sleepers-busts",
+            "https://bleacherreport.com/houston-cougars-basketball",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_New_Mexico_Lobos_men%27s_basketball_team",
+            "https://www.espn.com/mens-college-basketball/team/roster/_/id/248/houston-cougars",
+            "https://www.nytimes.com/athletic/college-basketball/team/purdue-boilermakers-college-basketball/roster/",
+            "https://en.wikipedia.org/wiki/2024%E2%80%9325_Purdue_Boilermakers_men%27s_basketball_team",
+            "https://www.nytimes.com/athletic/college-basketball/team/purdue-boilermakers-college-basketball/stats/",
+            "https://www.natesilver.net/p/2025-march-madness-ncaa-tournament-predictions",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-bracket-picks-upsets-fade-these-top-seeded-teams-to-help-your-ncaa-tournament-pool-odds-152952796.html",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.nbcphiladelphia.com/news/sports/ncaab/march-madness-first-round-upsets-by-matchup-ncaa-tournament/4137599/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.sportsbookreview.com/picks/ncaa-basketball/march-madness-stats-records-ncaa-tournament-trends-seed-history/"
+          ]
+        },
+        {
+          "game_id": "R3G8",
+          "region": "Midwest",
+          "team1": {
+            "name": "Kentucky",
+            "seed": 3
+          },
+          "team2": {
+            "name": "Tennessee",
+            "seed": 2
+          },
+          "predicted_winner": "Tennessee",
+          "confidence": 50,
+          "reasoning": "1. Tennessee's elite defensive metrics (Top 40 in Ken Pom adjusted defense) give them a significant advantage, especially considering Kentucky's recent offensive inconsistency and struggles against teams that can slow the tempo. Note: Confidence reduced due to historical upset patterns in 3-2 seed matchups.",
+          "sources": [
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-bracket-picks-upsets-fade-these-top-seeded-teams-to-help-your-ncaa-tournament-pool-odds-152952796.html",
+            "https://www.ncaa.com/news/basketball-men/article/2025-03-19/2025-march-madness-mens-ncaa-tournament-schedule-dates",
+            "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2025-03-19/latest-bracket-schedule-and-scores-2025-ncaa-mens-tournament",
+            "https://heatcheckcbb.com/march-madness-2025-stat-pack-analyzing-statistical-trends-for-each-first-round-matchup/",
+            "https://www.nytimes.com/athletic/6182297/2025/03/16/march-madness-2025-team-preview-big-board/",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44236788/march-madness-2025-every-team-mens-ncaa-tournament-bracket-explained",
+            "https://sports.yahoo.com/article/wofford-coach-dwight-perry-said-174659115.html",
+            "https://www.reddit.com/r/CollegeBasketball/comments/1jd49r4/oc_2025_ncaa_tournament_seven_pretournament_stats/",
+            "https://sports.yahoo.com/college-basketball/article/march-madness-2025-betting-lines-odds-which-low-seeds-have-the-best-chances-of-pulling-a-huge-1st-round-upset-234649784.html",
+            "https://www.cbssports.com/general/news/march-madness-2025-bracket-ncaa-tournament-picks-predictions-by-top-rated-college-basketball-model/",
+            "https://www.nytimes.com/athletic/6214175/2025/03/19/ncaa-tournament-march-madness-consensus-staff-predictions/",
+            "https://www.forbes.com/sites/giovannimalloy/2025/03/19/upset-alert-the-seeds-most-likely-to-break-your-march-madness-bracket/",
+            "https://statsbywill.substack.com/p/a-historical-analysis-of-the-2025",
+            "https://www.espn.com/mens-college-basketball/story/_/id/44056972/2025-march-madness-bracket-facts-mens-ncaa-tournament"
+          ]
+        }
+      ]
+    },
+    {
+      "round_name": "Elite Eight",
+      "round_number": 4,
+      "games": []
+    },
+    {
+      "round_name": "Final Four",
+      "round_number": 5,
+      "games": []
+    },
+    {
+      "round_name": "National Championship",
+      "round_number": 6,
+      "games": []
+    }
+  ],
+  "play_in_games": [
+    {
+      "region": "South",
+      "matchup": "Alabama St./Saint Francis",
+      "teams": [
+        {
+          "name": "Alabama State",
+          "seed": 16
+        },
+        {
+          "name": "Saint Francis",
+          "seed": 16
+        }
+      ]
+    },
+    {
+      "region": "South",
+      "matchup": "San Diego St./North Carolina",
+      "teams": [
+        {
+          "name": "San Diego State",
+          "seed": 11
+        },
+        {
+          "name": "North Carolina",
+          "seed": 11
+        }
+      ]
+    },
+    {
+      "region": "East",
+      "matchup": "American/Mount St. Mary's",
+      "teams": [
+        {
+          "name": "American",
+          "seed": 16
+        },
+        {
+          "name": "Mount St. Mary's",
+          "seed": 16
+        }
+      ]
+    },
+    {
+      "region": "Midwest",
+      "matchup": "Texas/Xavier",
+      "teams": [
+        {
+          "name": "Texas",
+          "seed": 11
+        },
+        {
+          "name": "Xavier",
+          "seed": 11
+        }
+      ]
+    }
+  ],
+  "locations": {
+    "R1": {
+      "South": [
+        {
+          "games": [
+            "R1G1",
+            "R1G2"
+          ],
+          "location": "Lexington",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G3",
+            "R1G4"
+          ],
+          "location": "Denver",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G5",
+            "R1G6"
+          ],
+          "location": "Milwaukee",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G7",
+            "R1G8"
+          ],
+          "location": "Cleveland",
+          "dates": "March 21-23"
+        }
+      ],
+      "West": [
+        {
+          "games": [
+            "R1G9",
+            "R1G10"
+          ],
+          "location": "Raleigh",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G11",
+            "R1G12"
+          ],
+          "location": "Seattle",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G13",
+            "R1G14"
+          ],
+          "location": "Wichita",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G15",
+            "R1G16"
+          ],
+          "location": "Providence",
+          "dates": "March 20-22"
+        }
+      ],
+      "East": [
+        {
+          "games": [
+            "R1G17",
+            "R1G18"
+          ],
+          "location": "Raleigh",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G19",
+            "R1G20"
+          ],
+          "location": "Seattle",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G21",
+            "R1G22"
+          ],
+          "location": "Denver",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G23",
+            "R1G24"
+          ],
+          "location": "Cleveland",
+          "dates": "March 21-23"
+        }
+      ],
+      "Midwest": [
+        {
+          "games": [
+            "R1G25",
+            "R1G26"
+          ],
+          "location": "Wichita",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G27",
+            "R1G28"
+          ],
+          "location": "Providence",
+          "dates": "March 20-22"
+        },
+        {
+          "games": [
+            "R1G29",
+            "R1G30"
+          ],
+          "location": "Milwaukee",
+          "dates": "March 21-23"
+        },
+        {
+          "games": [
+            "R1G31",
+            "R1G32"
+          ],
+          "location": "Lexington",
+          "dates": "March 20-22"
+        }
+      ]
+    },
+    "R3": {
+      "South": {
+        "location": "Atlanta",
+        "dates": "March 28-30"
+      },
+      "West": {
+        "location": "San Francisco",
+        "dates": "March 27-29"
+      },
+      "East": {
+        "location": "Newark",
+        "dates": "March 27-29"
+      },
+      "Midwest": {
+        "location": "Indianapolis",
+        "dates": "March 28-30"
+      }
+    },
+    "R5": {
+      "location": "San Antonio",
+      "dates": "April 5-7"
+    }
+  },
+  "team_records": {
+    "Auburn": "(30-4)",
+    "Florida": "(30-4)",
+    "Duke": "(31-3)",
+    "Houston": "(30-4)",
+    "Michigan State": "(27-8)",
+    "St. John's": "(30-4)",
+    "Alabama": "(25-8)",
+    "Tennessee": "(27-7)",
+    "Louisville": "(27-7)",
+    "UConn": "(23-10)",
+    "Mississippi State": "(21-12)",
+    "Gonzaga": "(25-8)",
+    "Creighton": "(24-10)",
+    "Oklahoma": "(20-13)",
+    "Baylor": "(19-14)",
+    "Georgia": "(20-12)",
+    "Michigan": "(25-8)",
+    "Memphis": "(29-5)",
+    "Oregon": "(24-9)",
+    "Clemson": "(27-8)",
+    "Texas A&M": "(22-10)",
+    "Maryland": "(25-8)",
+    "Arizona": "(22-12)",
+    "Purdue": "(22-11)",
+    "Ole Miss": "(22-11)",
+    "Missouri": "(22-11)",
+    "BYU": "(24-9)",
+    "Illinois": "(21-12)",
+    "Iowa State": "(24-9)",
+    "Texas Tech": "(25-8)",
+    "Wisconsin": "(24-9)",
+    "Kentucky": "(22-11)",
+    "Marquette": "(23-10)",
+    "Kansas": "(21-12)",
+    "Saint Mary's": "(28-5)",
+    "UCLA": "(22-10)",
+    "New Mexico": "(26-7)",
+    "Arkansas": "(20-13)",
+    "Vanderbilt": "(20-12)",
+    "Utah State": "(26-7)",
+    "UC San Diego": "(30-4)",
+    "Colorado State": "(25-9)",
+    "Liberty": "(28-6)",
+    "McNeese": "(27-8)",
+    "Yale": "(23-7)",
+    "Grand Canyon": "(26-7)",
+    "Akron": "(28-6)",
+    "High Point": "(29-5)",
+    "San Diego State": "(21-9)",
+    "Drake": "(30-3)",
+    "VCU": "(26-8)",
+    "Texas": "(19-15)",
+    "North Carolina": "(22-13)",
+    "Xavier": "(21-11)",
+    "Lipscomb": "(25-9)",
+    "UNCW": "(27-7)",
+    "Montana": "(25-9)",
+    "Troy": "(23-10)",
+    "Bryant": "(23-11)",
+    "Norfolk State": "(24-10)",
+    "Robert Morris": "(25-8)",
+    "Omaha": "(22-12)",
+    "Wofford": "(19-15)",
+    "Alabama State": "(19-15)",
+    "Saint Francis": "(16-17)",
+    "American": "(22-12)",
+    "Mount St. Mary's": "(22-12)",
+    "SIU Edwardsville": "(22-11)"
+  }
+}

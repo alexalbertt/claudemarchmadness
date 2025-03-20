@@ -33,7 +33,7 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Results directory (optional - uncomment to exclude)
+# We're including results for demonstration purposes
 # results/
 
 # Logs
